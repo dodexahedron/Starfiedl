@@ -1,0 +1,34 @@
+{
+  "FormKey": "00B585:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 16203799,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Good question! I believe it has something to do with not wanting to contaminate the water with methane and other chemicals."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00606E2776ECD701"
+    },
+    {
+      "WEMFile": 5180049,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The ice helps prevent impurities in the water. A-at least, this is what I've been told."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00A57C4276ECD701"
+    }
+  ],
+  "StartScene": "00B533:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

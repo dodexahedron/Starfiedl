@@ -1,0 +1,19 @@
+{
+  "FormKey": "2D268B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1128360,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I've seen it. I've just never ordered anything here before."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0F6AACCBE01D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B673:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1822085,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Is this where all of New Homestead's water comes from?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x8039266275ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

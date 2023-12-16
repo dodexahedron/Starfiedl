@@ -1,0 +1,25 @@
+{
+  "FormKey": "21C6E2:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 14327494,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240427:Starfield.esm",
+          "UnknownFloat": 22.033335
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Hey, welcome back! Can I get you something else?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x603A6FC31C9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

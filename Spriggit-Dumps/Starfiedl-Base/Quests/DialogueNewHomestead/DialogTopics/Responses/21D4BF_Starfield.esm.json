@@ -1,0 +1,21 @@
+{
+  "FormKey": "21D4BF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 66427,
+      "TRDAUnknown": 2.4666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Back then, it was a simple mess hall that she chose to put a little extra love and flavor into. And now it's the pride of New Homestead."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90798269919BD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,18 +1,18 @@
 {
-  "FormKey": "03C54E:Starfield.esm",
+  "FormKey": "03C547:Starfield.esm",
   "Flags": {},
   "Responses": [
     {
-      "WEMFile": 1076197,
+      "WEMFile": 1171289,
       "TRDAUnknown": 3.2333336,
       "Text": {
         "TargetLanguage": "English",
-        "Value": "Watch your step, outside, by the way. The ice can be slippery, if you're not careful. The goal is to keep people out of Dr. Lakota's infirmary."
+        "Value": "Tourism is a major draw to this colony, these days, and they respect that."
       },
       "ScriptNotes": "",
       "Edits": "",
       "AlternateLipText": "",
-      "TextHash": "0xB01B01EC3212D801"
+      "TextHash": "0x607646DC3D12D801"
     }
   ],
   "StartScenePhase": "",

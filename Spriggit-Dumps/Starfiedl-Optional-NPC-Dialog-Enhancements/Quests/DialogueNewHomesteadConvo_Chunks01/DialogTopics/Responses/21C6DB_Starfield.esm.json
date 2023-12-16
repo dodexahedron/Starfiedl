@@ -1,0 +1,26 @@
+{
+  "FormKey": "21C6DB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 2284333,
+      "TRDAUnknown": 7.4000006,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "00599A:Starfield.esm",
+          "UnknownFloat": 2.1666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, it's like eating the packaging the protein comes in. I don't see what the appeal is."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x700B54391D9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

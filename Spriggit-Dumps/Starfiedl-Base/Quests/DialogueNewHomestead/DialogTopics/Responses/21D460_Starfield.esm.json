@@ -1,0 +1,20 @@
+{
+  "FormKey": "21D460:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6775977,
+      "TRDAUnknown": 3.1000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The locals pretty much stay away from Chunks, so, whenever they don't feel like cooking, themselves, and want a fresh meal, they come to me."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90C3A7BC929BD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

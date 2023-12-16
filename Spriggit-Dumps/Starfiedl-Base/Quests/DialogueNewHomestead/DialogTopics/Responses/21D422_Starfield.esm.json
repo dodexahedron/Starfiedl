@@ -1,0 +1,21 @@
+{
+  "FormKey": "21D422:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 9858770,
+      "TRDAUnknown": 2.4666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You mean, the Brown Horse? Well, it's only the longest continuously-running restaurant since humans started settling outside of Earth."
+      },
+      "ScriptNotes": "She's particularly proud of this.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00875BE97E59D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

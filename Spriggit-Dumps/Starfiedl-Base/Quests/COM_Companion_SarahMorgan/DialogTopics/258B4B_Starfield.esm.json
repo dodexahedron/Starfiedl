@@ -1,0 +1,11 @@
+{
+  "FormKey": "258B4B:Starfield.esm",
+  "MajorRecordFlagsRaw": 16384,
+  "StarfieldMajorRecordFlags": [
+    "0x4000"
+  ],
+  "Priority": 0.0,
+  "MajorFlags": [
+    "PartialForm"
+  ]
+}

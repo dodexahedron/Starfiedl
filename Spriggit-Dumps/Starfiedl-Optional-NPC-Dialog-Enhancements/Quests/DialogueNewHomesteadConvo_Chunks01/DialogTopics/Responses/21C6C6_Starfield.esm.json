@@ -1,0 +1,25 @@
+{
+  "FormKey": "21C6C6:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13636811,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240427:Starfield.esm",
+          "UnknownFloat": 19.933334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sure thing!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x403F68EF1C9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

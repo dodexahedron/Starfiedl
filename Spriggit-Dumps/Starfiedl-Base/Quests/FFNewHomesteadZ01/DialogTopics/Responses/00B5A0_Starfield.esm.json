@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B5A0:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 4039172,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I want to go look around, some more."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50DF014875ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

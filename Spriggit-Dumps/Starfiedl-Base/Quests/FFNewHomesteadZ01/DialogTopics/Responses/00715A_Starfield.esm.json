@@ -1,18 +1,18 @@
 {
-  "FormKey": "03C54E:Starfield.esm",
+  "FormKey": "00715A:Starfield.esm",
   "Flags": {},
   "Responses": [
     {
-      "WEMFile": 1076197,
+      "WEMFile": 5434317,
       "TRDAUnknown": 3.2333336,
       "Text": {
         "TargetLanguage": "English",
-        "Value": "Watch your step, outside, by the way. The ice can be slippery, if you're not careful. The goal is to keep people out of Dr. Lakota's infirmary."
+        "Value": "You might have seen 'em in old movies or read about them, somewhere. If not, I highly recommend looking into them sometime; They're beautiful animals."
       },
       "ScriptNotes": "",
       "Edits": "",
       "AlternateLipText": "",
-      "TextHash": "0xB01B01EC3212D801"
+      "TextHash": "0xA0738D3AF8EDD701"
     }
   ],
   "StartScenePhase": "",

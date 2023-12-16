@@ -1,0 +1,19 @@
+{
+  "FormKey": "21D462:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 15359505,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Your wife owns the Brown Horse Tavern. How could you work for the competition?"
+      },
+      "ScriptNotes": "",
+      "Edits": "Two very obvious errors in one scene? Nobody even looked at this one...",
+      "AlternateLipText": "",
+      "TextHash": "0xF0C3677C209CD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

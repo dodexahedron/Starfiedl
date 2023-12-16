@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B59C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 786870,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm not ready to move on, yet."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0B6F65580ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

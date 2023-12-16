@@ -1,0 +1,30 @@
+{
+  "FormKey": "00B5CD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 10291584,
+      "TRDAUnknown": 4.9,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sounds good! Let's keep going, then."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0B6663275ECD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Yes_M03.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

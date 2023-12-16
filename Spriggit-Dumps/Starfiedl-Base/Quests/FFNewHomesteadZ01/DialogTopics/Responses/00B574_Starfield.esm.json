@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B574:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 15068874,
+      "TRDAUnknown": 3.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The Brown Horse started as a simple mess hall, for the scientists and workers, when the underground was built, but it's been operated by the same family ever since."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80C1C40C7CECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

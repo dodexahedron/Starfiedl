@@ -1,0 +1,26 @@
+{
+  "FormKey": "2E3030:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866C:Starfield.esm",
+      "WEMFile": 9408913,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "005984:Starfield.esm",
+          "UnknownFloat": 0.4666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Ice mining operations are unusual. But, if they're run properly, they can prove to be quite lucrative."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x903ECCBE8910D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

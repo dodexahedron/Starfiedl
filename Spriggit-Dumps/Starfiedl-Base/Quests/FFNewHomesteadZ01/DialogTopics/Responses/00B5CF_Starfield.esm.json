@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5CF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9302177,
+      "TRDAUnknown": 3.1666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "All right, we're headed to the last stop: Right back where we began!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00C3DDE981ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

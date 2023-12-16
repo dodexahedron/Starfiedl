@@ -1,0 +1,35 @@
+{
+  "FormKey": "00B580:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8490412,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Ooh, that's a tough one! I, honestly, love everything Anja serves here. I'd be doing her a disservice, to recommend one dish, over another."
+      },
+      "ScriptNotes": "Anja = \"Ahn-yah\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x305A1F0081ECD701"
+    },
+    {
+      "Emotion": "0FA84D:Starfield.esm",
+      "WEMFile": 646849,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You want the real answer? Order one of everything! *hearty chuckle*"
+      },
+      "ScriptNotes": "A hearty chuckle.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50BC0D563F12D801"
+    }
+  ],
+  "StartScene": "00B531:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

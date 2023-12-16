@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C54C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13662529,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Long before space travel was even a dream for the folks of Earth - even before antique machines like automobiles were possible - horses could be found everywhere!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB071059A3E12D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

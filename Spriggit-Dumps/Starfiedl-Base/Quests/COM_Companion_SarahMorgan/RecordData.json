@@ -1,0 +1,11 @@
+{
+  "FormKey": "009E99:Starfield.esm",
+  "MajorRecordFlagsRaw": 16384,
+  "EditorID": "COM_Companion_SarahMorgan",
+  "StarfieldMajorRecordFlags": [
+    "0x4000"
+  ],
+  "MajorFlags": [
+    "PartialForm"
+  ]
+}

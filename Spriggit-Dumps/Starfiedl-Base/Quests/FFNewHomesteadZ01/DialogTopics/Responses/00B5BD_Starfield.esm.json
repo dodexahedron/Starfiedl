@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B5BD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6324252,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Why not heat this area, like the rest of the colony?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0E129DC75ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

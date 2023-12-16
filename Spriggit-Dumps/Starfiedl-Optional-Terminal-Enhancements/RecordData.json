@@ -10,10 +10,11 @@
       "Master"
     ],
     "Stats": {
-      "NumRecords": 2
+      "NumRecords": 6
     },
+    "Deleted": "[]",
     "Author": "dodexahedron",
-    "Description": "Edits to terminal text entries to enhance the experience",
+    "Description": "Edits to terminal text entries, displays, and other static objects that show text data, for a better experience",
     "MasterReferences": [
       {
         "Master": "Starfield.esm"

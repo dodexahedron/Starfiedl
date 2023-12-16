@@ -10,7 +10,7 @@
       "Master"
     ],
     "Stats": {
-      "NumRecords": 86,
+      "NumRecords": 90,
       "NextFormID": 2051
     },
     "Author": "dodexahedron",
@@ -27,8 +27,11 @@
       }
     ],
     "OverriddenForms": [
+      "00B555:Starfield.esm",
       "00B599:Starfield.esm",
       "00B5AB:Starfield.esm",
+      "00B5B3:Starfield.esm",
+      "00B6BB:Starfield.esm",
       "00B706:Starfield.esm",
       "00B719:Starfield.esm",
       "010A7C:Starfield.esm",

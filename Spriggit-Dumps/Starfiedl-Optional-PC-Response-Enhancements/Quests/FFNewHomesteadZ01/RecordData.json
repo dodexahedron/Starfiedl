@@ -42,11 +42,6 @@
         },
         {
           "MutagenObjectType": "ScriptObjectProperty",
-          "Name": "FFNewHomesteadZ01_TourTip",
-          "Object": "00B51B:Starfield.esm"
-        },
-        {
-          "MutagenObjectType": "ScriptObjectProperty",
           "Name": "FFNewHomesteadZ01_Bill_Tour05",
           "Object": "00B53D:Starfield.esm"
         },
@@ -75,6 +70,11 @@
           "MutagenObjectType": "ScriptObjectProperty",
           "Name": "FFNewHomesteadZ01_Foreknowledge_AV",
           "Object": "00B554:Starfield.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "FFNewHomesteadZ01_TourTip",
+          "Object": "00B51B:Starfield.esm"
         }
       ]
     },

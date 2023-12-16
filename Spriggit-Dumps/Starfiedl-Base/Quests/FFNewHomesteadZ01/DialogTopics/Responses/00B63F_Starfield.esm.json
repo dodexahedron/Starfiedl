@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B63F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 2594327,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I think I'm good to go, here."
+      },
+      "ScriptNotes": "",
+      "Edits": "One little comma is the difference between \"Let's eat, Grandma!\" and \"Let's eat Grandma!\"",
+      "AlternateLipText": "",
+      "TextHash": "0x803FBD5A80ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

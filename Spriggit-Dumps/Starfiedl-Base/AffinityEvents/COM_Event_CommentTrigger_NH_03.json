@@ -1,0 +1,29 @@
+{
+  "FormKey": "146D43:Starfield.esm",
+  "EditorID": "COM_Event_CommentTrigger_NH_03",
+  "FNAM": "0x01000000",
+  "NLDT": "This is what amounts to the slums of the New Homestead underground interior. Not that the rest of the accommodations here are all that great, but this area is full of cramped shipping containers stacked on top of each other. It's even inside an old storage area.",
+  "ActorReactions": [
+    {
+      "Actor": "0059A7:Starfield.esm",
+      "Reaction": "005ACC:Starfield.esm"
+    },
+    {
+      "Actor": "005787:Starfield.esm",
+      "Reaction": "005ACC:Starfield.esm"
+    },
+    {
+      "Actor": "005999:Starfield.esm",
+      "Reaction": "005ACC:Starfield.esm"
+    },
+    {
+      "Actor": "005983:Starfield.esm",
+      "Reaction": "005ACC:Starfield.esm"
+    }
+  ],
+  "ActorValue": "0A1B80:Starfield.esm",
+  "Size": "2A2CA4:Starfield.esm",
+  "Distance": "29C17B:Starfield.esm",
+  "Cooldown": "2A2CA6:Starfield.esm",
+  "Faction": "00D875:Starfield.esm"
+}

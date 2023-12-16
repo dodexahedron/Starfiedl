@@ -1,0 +1,19 @@
+{
+  "FormKey": "21D43F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 4518264,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "New Homestead is all about authentic \"living history.\" What's Chunks doing here?"
+      },
+      "ScriptNotes": "",
+      "Edits": "Added missing word.",
+      "AlternateLipText": "",
+      "TextHash": "0x50F2CA0288E8D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

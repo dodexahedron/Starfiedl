@@ -1,0 +1,22 @@
+{
+  "FormKey": "00B5DE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10934177,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Easy! All the other ones fell to ruin, when we abandoned Earth. There were technically older ones on Mars, but those have long since shuttered or been replaced."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD074CABD80ECD701"
+    }
+  ],
+  "StartScene": "00B531:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

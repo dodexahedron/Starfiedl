@@ -1,18 +1,18 @@
 {
-  "FormKey": "03C54E:Starfield.esm",
+  "FormKey": "03C550:Starfield.esm",
   "Flags": {},
   "Responses": [
     {
-      "WEMFile": 1076197,
+      "WEMFile": 10154455,
       "TRDAUnknown": 3.2333336,
       "Text": {
         "TargetLanguage": "English",
-        "Value": "Watch your step, outside, by the way. The ice can be slippery, if you're not careful. The goal is to keep people out of Dr. Lakota's infirmary."
+        "Value": "The moniker, \"Brown Horse Tavern,\" is also a throwback to names of similar Earth restaurants hundreds of years before it was established."
       },
       "ScriptNotes": "",
       "Edits": "",
       "AlternateLipText": "",
-      "TextHash": "0xB01B01EC3212D801"
+      "TextHash": "0x00A3614E4312D801"
     }
   ],
   "StartScenePhase": "",

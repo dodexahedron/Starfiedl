@@ -1,0 +1,43 @@
+{
+  "FormKey": "00B64D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6965145,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I wouldn't recommend it. First, it's an active work site. Second, it still needs to be filtered and checked for contaminants."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA09CE37076ECD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_FriendlyNo_M01.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    },
+    {
+      "WEMFile": 7957598,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, don't worry: We'll stop, somewhere, for refreshments, before the tour is over."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0AAEE8076ECD701"
+    }
+  ],
+  "StartScene": "00B533:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

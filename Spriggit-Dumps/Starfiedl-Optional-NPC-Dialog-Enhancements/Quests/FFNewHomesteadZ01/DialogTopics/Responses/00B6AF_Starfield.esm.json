@@ -1,0 +1,25 @@
+{
+  "FormKey": "00B6AF:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 13273868,
+      "TRDAUnknown": 5.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh yeah! By all means, stop in for a moment!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50627F6E80ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

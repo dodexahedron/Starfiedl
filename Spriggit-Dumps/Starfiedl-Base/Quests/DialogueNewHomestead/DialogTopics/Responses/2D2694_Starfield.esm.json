@@ -1,0 +1,19 @@
+{
+  "FormKey": "2D2694:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10519664,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Yes. I've never been here, before."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0853ABEBE01D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

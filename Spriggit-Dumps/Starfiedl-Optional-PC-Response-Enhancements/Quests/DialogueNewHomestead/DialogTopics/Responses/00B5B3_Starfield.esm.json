@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5B3:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6096215,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sorry. I've already taken your tour. You couldn't teach me something new if you tried."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x308609A6F8EAD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low",
+  "Perk": "1D7053:Starfield.esm"
+}

@@ -1,0 +1,28 @@
+{
+  "FormKey": "21D46B:Starfield.esm",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "VendorInfoScript"
+      }
+    ]
+  },
+  "Flags": {},
+  "DialogGroup": "21D46D:Starfield.esm",
+  "Responses": [
+    {
+      "WEMFile": 1371124,
+      "TRDAUnknown": 3.1000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It may not look like it, but trust me: It's home-cooked!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x605E060D929BD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

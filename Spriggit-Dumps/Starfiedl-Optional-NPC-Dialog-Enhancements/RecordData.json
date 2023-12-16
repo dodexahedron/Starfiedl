@@ -10,7 +10,7 @@
       "Master"
     ],
     "Stats": {
-      "NumRecords": 218
+      "NumRecords": 258
     },
     "Author": "dodexahedron",
     "Description": "Additional modifications to NPC dialog and facial expressions, to better match the voice acting.",
@@ -35,8 +35,10 @@
       "009654:Starfield.esm",
       "00B562:Starfield.esm",
       "00B565:Starfield.esm",
+      "00B580:Starfield.esm",
       "00B581:Starfield.esm",
       "00B584:Starfield.esm",
+      "00B585:Starfield.esm",
       "00B58E:Starfield.esm",
       "00B59D:Starfield.esm",
       "00B59F:Starfield.esm",
@@ -58,6 +60,7 @@
       "00B67F:Starfield.esm",
       "00B685:Starfield.esm",
       "00B688:Starfield.esm",
+      "00B6AF:Starfield.esm",
       "00B6D2:Starfield.esm",
       "00B6D3:Starfield.esm",
       "00B6D4:Starfield.esm",
@@ -82,6 +85,9 @@
       "00B74B:Starfield.esm",
       "00B75F:Starfield.esm",
       "00B760:Starfield.esm",
+      "00B76A:Starfield.esm",
+      "00B776:Starfield.esm",
+      "00B77A:Starfield.esm",
       "00B787:Starfield.esm",
       "01AFBF:Starfield.esm",
       "01B0B0:Starfield.esm",
@@ -158,7 +164,25 @@
       "1A6BF2:Starfield.esm",
       "21A886:Starfield.esm",
       "21A8A6:Starfield.esm",
-      "21D4CE:Starfield.esm"
+      "21C6AC:Starfield.esm",
+      "21C6C1:Starfield.esm",
+      "21C6C6:Starfield.esm",
+      "21C6CC:Starfield.esm",
+      "21C6D2:Starfield.esm",
+      "21C6DB:Starfield.esm",
+      "21C6E2:Starfield.esm",
+      "21C72D:Starfield.esm",
+      "21C72E:Starfield.esm",
+      "21C72F:Starfield.esm",
+      "21C730:Starfield.esm",
+      "21C731:Starfield.esm",
+      "21C732:Starfield.esm",
+      "21C733:Starfield.esm",
+      "21D4CE:Starfield.esm",
+      "258B4A:Starfield.esm",
+      "2D2652:Starfield.esm",
+      "2D2693:Starfield.esm",
+      "2E2F8D:Starfield.esm"
     ]
   }
 }

@@ -1,0 +1,20 @@
+{
+  "FormKey": "2D2693:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3158473,
+      "TRDAUnknown": 3.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We've got an assortment of food and drinks, some of which follow homemade recipes that have been passed down over hundreds of years!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x805989C9C001D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

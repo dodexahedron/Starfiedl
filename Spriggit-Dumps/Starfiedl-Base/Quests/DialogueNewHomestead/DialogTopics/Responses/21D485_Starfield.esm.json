@@ -1,0 +1,21 @@
+{
+  "FormKey": "21D485:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 1452084,
+      "TRDAUnknown": 3.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "There's a lot of history within these walls, and some damn fine food and drink, if I say so myself. This place has been in my family for generations."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x0060BA26919BD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

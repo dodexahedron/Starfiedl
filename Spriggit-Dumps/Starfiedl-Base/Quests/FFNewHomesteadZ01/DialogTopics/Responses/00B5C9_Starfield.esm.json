@@ -1,0 +1,30 @@
+{
+  "FormKey": "00B5C9:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 13998438,
+      "TRDAUnknown": 5.166667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Okay, then!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0ED41D97EECD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Yes_M05.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

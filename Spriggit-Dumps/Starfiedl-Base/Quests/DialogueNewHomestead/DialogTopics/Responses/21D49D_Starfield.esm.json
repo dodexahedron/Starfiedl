@@ -1,0 +1,21 @@
+{
+  "FormKey": "21D49D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 2303794,
+      "TRDAUnknown": 2.4666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "My great great... uh... however many... great grandmother opened it when the first colony started on Titan."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80B6092E919BD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

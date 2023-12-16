@@ -1,0 +1,20 @@
+{
+  "FormKey": "2D265F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7799028,
+      "TRDAUnknown": 3.1000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Welcome! I'm Anja. Is this your first time with us, at the Brown Horse Tavern?"
+      },
+      "ScriptNotes": "\"Ahn-yah\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF07DB052E001D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

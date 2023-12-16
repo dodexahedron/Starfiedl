@@ -1,0 +1,26 @@
+{
+  "FormKey": "21C6D2:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12980659,
+      "TRDAUnknown": 7.4000006,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "00599A:Starfield.esm",
+          "UnknownFloat": 2.1333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "No thanks, I just had a question about the uh... food."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x802F78FF1C9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

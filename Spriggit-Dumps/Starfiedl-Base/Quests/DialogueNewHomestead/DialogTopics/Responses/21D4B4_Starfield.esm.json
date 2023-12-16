@@ -1,0 +1,42 @@
+{
+  "FormKey": "21D4B4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6341072,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240429:Starfield.esm",
+          "UnknownFloat": 9.766667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "For drinking water. And we use some of it to produce this air you're breathing."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF08EA7AC75ECD701"
+    },
+    {
+      "WEMFile": 8640455,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240429:Starfield.esm",
+          "UnknownFloat": 9.766667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We recycle a lot of what we use, but we still need a nice, steady supply of fresh water. Lucky for us, Titan provides."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x709FE8176D9BD601"
+    }
+  ],
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,31 @@
+{
+  "FormKey": "00B6A8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 14256147,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "How did this collis form?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30D7C87A3C12D801"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "HasPerkConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Starfield.esm",
+        "FirstParameter": "2CE29F:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

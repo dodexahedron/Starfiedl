@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C554:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3444026,
+      "TRDAUnknown": 3.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These displays are full of rare Earth trinkets salvaged from before humanity left, and Maurice is happy to talk about the collection."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE011978C3F12D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

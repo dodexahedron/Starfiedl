@@ -1,0 +1,26 @@
+{
+  "FormKey": "21C6AC:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 11945625,
+      "TRDAUnknown": 7.3333335,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "00599A:Starfield.esm",
+          "UnknownFloat": 2.1000001
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Do people on other worlds really eat this stuff? I mean, I'm no stranger to processed protein, but this is..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x1035D41C1D9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

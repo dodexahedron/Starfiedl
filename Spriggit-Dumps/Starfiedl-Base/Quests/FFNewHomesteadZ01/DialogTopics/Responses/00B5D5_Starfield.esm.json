@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B5D5:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 11742667,
+      "TRDAUnknown": 0.53333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We have just one more stop, before we're done with the tour, and it just happens to be my favorite!"
+      },
+      "ScriptNotes": "Excited.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB072DF8F7AECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

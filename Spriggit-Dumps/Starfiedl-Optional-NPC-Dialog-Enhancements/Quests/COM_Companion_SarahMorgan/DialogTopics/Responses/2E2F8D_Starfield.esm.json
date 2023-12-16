@@ -1,0 +1,26 @@
+{
+  "FormKey": "2E2F8D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "17B499:Starfield.esm",
+      "WEMFile": 5703119,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "005984:Starfield.esm",
+          "UnknownFloat": 1.2666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It must be difficult, trying to survive, when this collection of shipping containers is all you have, for permanent accommodations."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50F86B188A10D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

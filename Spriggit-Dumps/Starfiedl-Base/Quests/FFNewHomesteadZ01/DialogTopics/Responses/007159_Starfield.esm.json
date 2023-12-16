@@ -1,18 +1,18 @@
 {
-  "FormKey": "03C54E:Starfield.esm",
+  "FormKey": "007159:Starfield.esm",
   "Flags": {},
   "Responses": [
     {
-      "WEMFile": 1076197,
+      "WEMFile": 15136022,
       "TRDAUnknown": 3.2333336,
       "Text": {
         "TargetLanguage": "English",
-        "Value": "Watch your step, outside, by the way. The ice can be slippery, if you're not careful. The goal is to keep people out of Dr. Lakota's infirmary."
+        "Value": "Now, \"what's a horse,\" you might say? They were a large, four-legged animal on Earth, often used for transportation or manual labor."
       },
       "ScriptNotes": "",
       "Edits": "",
       "AlternateLipText": "",
-      "TextHash": "0xB01B01EC3212D801"
+      "TextHash": "0x0076C1BB3E12D801"
     }
   ],
   "StartScenePhase": "",

@@ -1,0 +1,25 @@
+{
+  "FormKey": "21C6CC:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3515284,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240427:Starfield.esm",
+          "UnknownFloat": 19.866667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Chunks isn't for everyone, I guess. But, I tell you, this is the most popular food in the Settled Systems. They must be doing something right!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0A6AB611D9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "0"
+}

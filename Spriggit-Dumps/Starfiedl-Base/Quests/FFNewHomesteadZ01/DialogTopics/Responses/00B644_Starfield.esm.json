@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B644:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10071583,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't need to know any more about the ice mines. I'm ready to go."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x6011FA0D75ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}
