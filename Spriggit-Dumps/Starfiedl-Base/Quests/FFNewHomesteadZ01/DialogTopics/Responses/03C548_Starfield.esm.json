@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C548:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 15959861,
+      "TRDAUnknown": 8.866667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, crude or not, it was that technology that sustained the old Astrobase. And, it might surprise you to learn that the same technology is still working today!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x007CCF453212D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

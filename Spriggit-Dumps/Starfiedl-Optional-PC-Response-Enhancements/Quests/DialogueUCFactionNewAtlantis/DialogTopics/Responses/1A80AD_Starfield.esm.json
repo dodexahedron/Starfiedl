@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A80AD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3299028,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Wouldn't want all those innocent lives distracting you from your precious galactic war."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0855227C03FD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B636:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 5394143,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Hey, can you believe it? Back in the 20th century, on Earth, they used to fight wars over natural resources like this and petroleum."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0133758EDEBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

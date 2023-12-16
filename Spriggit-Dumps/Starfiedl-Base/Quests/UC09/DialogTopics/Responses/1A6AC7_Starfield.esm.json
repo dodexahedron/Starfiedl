@@ -1,0 +1,27 @@
+{
+  "FormKey": "1A6AC7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 6443749,
+      "TRDAUnknown": 7.433334,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 4.6000004
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, on our end, good news: The microbe and the aceles are both as effective against heatleeches as they are against Terrormorphs."
+      },
+      "ScriptNotes": "RERECORD. Could we try smoothing this out? Current version is a bit stilted.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0AF012EF2DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

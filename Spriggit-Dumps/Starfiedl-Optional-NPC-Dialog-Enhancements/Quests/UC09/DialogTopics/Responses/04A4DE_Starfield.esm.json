@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4DE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84A:Starfield.esm",
+      "WEMFile": 4794426,
+      "TRDAUnknown": 3.5333335,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But then, as the war ended - my trial… my… execution - I made a decision. After all, I'd given everything for the Colonies - my life as I knew it included."
+      },
+      "ScriptNotes": "Real venom on \"my trial... my execution\". You're still very mad about this.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x600489861DDBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

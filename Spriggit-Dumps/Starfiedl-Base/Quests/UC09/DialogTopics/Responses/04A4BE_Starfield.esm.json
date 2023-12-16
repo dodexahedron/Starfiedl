@@ -1,0 +1,19 @@
+{
+  "FormKey": "04A4BE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6882757,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "What kind of risks are there, if we decide to bring back the aceles?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60B5EC0930DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

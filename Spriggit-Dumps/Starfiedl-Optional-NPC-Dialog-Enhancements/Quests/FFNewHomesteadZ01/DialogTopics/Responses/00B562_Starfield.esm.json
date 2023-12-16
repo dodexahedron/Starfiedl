@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B562:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3101262,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Moving right along, we're going to learn about Titan's great natural resources!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0946691EBEBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

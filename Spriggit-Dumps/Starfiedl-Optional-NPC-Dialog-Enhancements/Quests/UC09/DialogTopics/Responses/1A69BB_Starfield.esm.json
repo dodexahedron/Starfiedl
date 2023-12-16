@@ -1,0 +1,25 @@
+{
+  "FormKey": "1A69BB:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x4"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "0C8673:Starfield.esm",
+      "WEMFile": 9426431,
+      "TRDAUnknown": 9.933333,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm in agreement... I fail to see the value, here."
+      },
+      "ScriptNotes": "You just got a surprising proposal from someone. You're not sure what to make of it.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA095E4BEC523D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

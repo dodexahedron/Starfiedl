@@ -1,0 +1,27 @@
+{
+  "FormKey": "23FA74:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 10315921,
+      "TRDAUnknown": 5.1000004,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012498:Starfield.esm",
+          "UnknownFloat": 1.5666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, then, we'll have to make do with the tools we've got."
+      },
+      "ScriptNotes": "Gravely serious.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00ECCC7557F6D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

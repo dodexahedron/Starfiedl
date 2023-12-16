@@ -1,0 +1,38 @@
+{
+  "FormKey": "0E53FB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84B:Starfield.esm",
+      "WEMFile": 1809380,
+      "TRDAUnknown": 2.2,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "They said you've done this before. Well, I've got one fireteam to spare and whatever supplies you need, but I... I can't risk them taking over any more of my men."
+      },
+      "ScriptNotes": "You're tired, exhausted and scared after engaging in some of the hardest fighting of your life.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x302BB5AE59AED701"
+    },
+    {
+      "Emotion": "0FA84B:Starfield.esm",
+      "WEMFile": 13239598,
+      "TRDAUnknown": 7.7333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Put that last Morph down and do it fast. We... we'll hold as best we can."
+      },
+      "ScriptNotes": "You're tired, exhausted and scared after engaging in some of the hardest fighting of your life.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x40958EC459AED701"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 800
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

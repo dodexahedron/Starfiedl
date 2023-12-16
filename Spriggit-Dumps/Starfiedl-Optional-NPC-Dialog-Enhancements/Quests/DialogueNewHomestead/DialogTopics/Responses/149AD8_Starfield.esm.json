@@ -1,0 +1,25 @@
+{
+  "FormKey": "149AD8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8127189,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240430:Starfield.esm",
+          "UnknownFloat": 7.666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's not as bad as you'd think. I like talking to offworlders - especially people my age. It gives me ideas for what I want to do, when I'm done with school."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0923ED2DA58D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

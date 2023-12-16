@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C553:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8186998,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Most of 'em are happy to talk, at length, about what they do, here. Their rugged lifestyle is a point of pride, for a lot of these folks."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA02CE10E3E12D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

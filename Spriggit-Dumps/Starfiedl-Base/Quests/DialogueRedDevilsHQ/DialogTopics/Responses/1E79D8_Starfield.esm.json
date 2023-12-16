@@ -1,0 +1,27 @@
+{
+  "FormKey": "1E79D8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 3680959,
+      "TRDAUnknown": 7.5000005,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29D01C:Starfield.esm",
+          "UnknownFloat": 7.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Which means we need someone to track down said aliens, and harvest samples. Multiple sets, in some cases. From oftentimes unfriendly creatures."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x808FFA3A07EED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

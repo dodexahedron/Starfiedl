@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B67A:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8891797,
+      "TRDAUnknown": 3.3666668,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That's right! New Homestead's famous wind farms! This spot was chosen for the colony, in part, because of its constant winds."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x701321F5E6EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

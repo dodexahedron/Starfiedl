@@ -1,0 +1,19 @@
+{
+  "FormKey": "21A898:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1823453,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Isn't Titan a dangerous place to live? What should I look out for?"
+      },
+      "ScriptNotes": "",
+      "Edits": "\"Dangerous hazards?\" As opposed to what... Safe hazards?",
+      "AlternateLipText": "",
+      "TextHash": "0xE0E0447BD8A0D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

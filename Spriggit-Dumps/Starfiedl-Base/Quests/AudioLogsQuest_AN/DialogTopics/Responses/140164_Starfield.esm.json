@@ -1,0 +1,45 @@
+{
+  "FormKey": "140164:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84A:Starfield.esm",
+      "WEMFile": 8788905,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Two things, Adler - and I'm going to make this simple enough so even a total imbecile like yourself can understand."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x4082819E9A63D701"
+    },
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 816713,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "One, I don't give a damn about your excuses. You owe us the agreed amount, on time, every month."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF00EF3EA9A63D701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 9954600,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And two, you call me \"sweetie\" ever again, and I'll shove my knife so far up your ass that people will mistake you for a unicorn."
+      },
+      "ScriptNotes": "cold, hard threat - right in the face",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80B934B99B63D701"
+    }
+  ],
+  "Speaker": "009138:Starfield.esm",
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,73 @@
+{
+  "FormKey": "04A4A7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 14543687,
+      "TRDAUnknown": 1.8000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The attacks... were a correction."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00EDD7DD30DAD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 13237387,
+      "TRDAUnknown": 5.6000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "When I discovered the plant, I did consider handing over what I'd found."
+      },
+      "ScriptNotes": "Highlight \"did\".",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0211B3C1BDBD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 8249712,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, we were at war, and I couldn't risk information that dangerous falling into the wrong hands."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30D43C3F1BDBD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 12807097,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So I ordered the bombing of the Londinion spaceport, fixing two problems at once - halting the spread of the city's Terrormorph outbreak..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA01B18051CDCD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 10647092,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And sealing away knowledge of the plant's potential."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB08D2F56F0DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

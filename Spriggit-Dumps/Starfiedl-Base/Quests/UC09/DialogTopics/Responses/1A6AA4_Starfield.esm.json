@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6AA4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 16649019,
+      "TRDAUnknown": 5.1333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, according to Hadrian's report - and this second one I just received - it seems the Terrormorph attack on New Atlantis was no random occurrence, but a planned strike."
+      },
+      "ScriptNotes": "Right to business. You just got some disturbing reports.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70C0F64DF723D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

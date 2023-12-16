@@ -1,0 +1,24 @@
+{
+  "FormKey": "00B5D2:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "WEMFile": 8927065,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh, sure. I'll be here waiting. The locals love to talk with tourists. But, they'll let you know if they're busy, so please respect them."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0B541A771ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

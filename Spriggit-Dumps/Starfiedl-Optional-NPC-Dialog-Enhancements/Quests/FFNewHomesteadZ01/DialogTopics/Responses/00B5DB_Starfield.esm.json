@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5DB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 14330170,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That brings me to another point. You'll notice the people around here have last names related to where their families originated from, on Earth, as a way to remember the past."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0DCCD7074ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

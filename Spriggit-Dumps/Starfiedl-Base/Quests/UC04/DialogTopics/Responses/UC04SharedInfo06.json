@@ -1,0 +1,37 @@
+{
+  "FormKey": "2AAE02:Starfield.esm",
+  "EditorID": "UC04SharedInfo06",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "17B499:Starfield.esm",
+      "WEMFile": 16621022,
+      "TRDAUnknown": 1.0666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Captain, we should report back to the President - Let her know the Terrormorphs have been dealt with."
+      },
+      "ScriptNotes": "You've got mixed feelings, here. You just performed an incredible feat, but it means your scary theory was right.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0438EF782C7D601"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsAliasRefConditionData",
+        "FirstParameter": 12
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

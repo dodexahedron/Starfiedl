@@ -1,0 +1,44 @@
+{
+  "FormKey": "01AFBF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA850:Starfield.esm",
+      "WEMFile": 15403946,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 10.000001
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I appreciate that you're trying to set me at ease, but that might as well be the same."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90E3DF5675E8D701"
+    },
+    {
+      "Emotion": "118A4D:Starfield.esm",
+      "WEMFile": 988513,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 9.333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sorry for how I responded. It's not you - it's me. I'm just frustrated about all the non-native people I need to treat, when our own still need help."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30EF668D75E8D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

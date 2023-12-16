@@ -1,0 +1,21 @@
+{
+  "FormKey": "0CA0D3:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866C:Starfield.esm",
+      "WEMFile": 951332,
+      "TRDAUnknown": 1.4666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Every agent who joins Aegis gets to choose a pseudonym - pending approval, of course. I chose this for myself when I signed on."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0C0ADEC18D1D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

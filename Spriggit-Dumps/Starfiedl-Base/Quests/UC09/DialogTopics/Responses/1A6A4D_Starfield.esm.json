@@ -1,0 +1,25 @@
+{
+  "FormKey": "1A6A4D:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x4"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "0C8673:Starfield.esm",
+      "WEMFile": 6103478,
+      "TRDAUnknown": 1.8666668,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Tell the Freestar Collective? Why - so they have another tool to utilize against us?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x0046CC45C11CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

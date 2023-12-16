@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B599:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6968262,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I think I'd like to move on."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0789C6EE7EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

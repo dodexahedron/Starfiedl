@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B565:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 74615,
+      "TRDAUnknown": 4.9,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, here it is: Ymir's Horn! You're free to take a closer look, if you'd like."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0AD0E4058ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

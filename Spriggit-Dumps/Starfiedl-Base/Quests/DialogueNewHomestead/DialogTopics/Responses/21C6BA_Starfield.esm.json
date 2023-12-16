@@ -1,0 +1,51 @@
+{
+  "FormKey": "21C6BA:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "Random"
+    ]
+  },
+  "DialogGroup": "21C6BB:Starfield.esm",
+  "Responses": [
+    {
+      "WEMFile": 15938842,
+      "TRDAUnknown": 7.4000006,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "27CBC6:Starfield.esm",
+          "UnknownFloat": 1.6000001
+        },
+        {
+          "UnknownVoiceType": "2BCA2F:Starfield.esm",
+          "UnknownFloat": 4.866667
+        },
+        {
+          "UnknownVoiceType": "2BCA31:Starfield.esm",
+          "UnknownFloat": 4.9
+        },
+        {
+          "UnknownVoiceType": "2BCA36:Starfield.esm",
+          "UnknownFloat": 4.0
+        },
+        {
+          "UnknownVoiceType": "2CD268:Starfield.esm",
+          "UnknownFloat": 4.7333336
+        },
+        {
+          "UnknownVoiceType": "09642C:Starfield.esm",
+          "UnknownFloat": 4.366667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't mind the tourists; they help the local economy."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB01022E6EE9CD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

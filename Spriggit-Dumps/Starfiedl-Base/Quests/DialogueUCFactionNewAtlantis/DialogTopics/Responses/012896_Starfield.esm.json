@@ -1,0 +1,37 @@
+{
+  "FormKey": "012896:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 1047956,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2846ED:Starfield.esm",
+          "UnknownFloat": 4.6000004
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We've also been conscripted to help with some targeted Terrormorph clean-up - Get a jump on the TMD's extermination duties."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x509690FBEBEAD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "24377D:Starfield.esm"
+      },
+      "ComparisonValue": 3.0
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

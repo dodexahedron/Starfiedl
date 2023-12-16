@@ -1,0 +1,46 @@
+{
+  "FormKey": "04A4FE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 11062953,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Easy to say now."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA052F06B1FDBD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 12302431,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, in that moment, I wasn't about to add another dangerous variable to an already catastrophic war."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10AE2C6E1FDBD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 127
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

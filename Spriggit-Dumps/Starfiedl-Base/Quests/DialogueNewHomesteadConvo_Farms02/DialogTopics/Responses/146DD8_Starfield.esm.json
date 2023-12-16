@@ -1,0 +1,26 @@
+{
+  "FormKey": "146DD8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "154F0E:Starfield.esm",
+      "WEMFile": 8208530,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042B:Starfield.esm",
+          "UnknownFloat": 6.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, then, it's not really the same, is it? How is it a tradition, if it's not the same thing as they did? And... So, then, why is it important that we preserve it?"
+      },
+      "ScriptNotes": "Using that kid logic against her father, and in this case, she's right.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60EEB60E8E5CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

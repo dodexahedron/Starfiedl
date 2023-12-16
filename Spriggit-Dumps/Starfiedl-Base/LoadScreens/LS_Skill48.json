@@ -1,0 +1,9 @@
+{
+  "FormKey": "185696:Starfield.esm",
+  "EditorID": "LS_Skill48",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Security skill allows more difficult terminals and electronic locks to be hacked."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\eye\\starfield_eye_002_color.dds"
+}

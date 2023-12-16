@@ -1,0 +1,26 @@
+{
+  "FormKey": "00962F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 63811,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.833334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The best ones certainly do."
+      },
+      "ScriptNotes": "Referring to the player here.",
+      "Edits": "Apostrophes don't make things plural!",
+      "AlternateLipText": "",
+      "TextHash": "0xB02C113C64EDD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

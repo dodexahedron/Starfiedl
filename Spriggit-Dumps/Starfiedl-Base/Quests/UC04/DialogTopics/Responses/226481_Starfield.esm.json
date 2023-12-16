@@ -1,0 +1,23 @@
+{
+  "FormKey": "226481:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12516518,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Personally, I would wait. We don't yet have enough information."
+      },
+      "ScriptNotes": "",
+      "Edits": "Removed an extra \"yet\"",
+      "AlternateLipText": "",
+      "TextHash": "0xB0044ECDB092D601"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 422
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

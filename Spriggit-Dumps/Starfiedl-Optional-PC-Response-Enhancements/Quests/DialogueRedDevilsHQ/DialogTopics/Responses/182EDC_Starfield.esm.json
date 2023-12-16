@@ -1,0 +1,29 @@
+{
+  "FormKey": "182EDC:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 15443587,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I've never seen a robot with your capabilities before. Who built you, Kaiser?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0FDE62CAB37D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "182DBD:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

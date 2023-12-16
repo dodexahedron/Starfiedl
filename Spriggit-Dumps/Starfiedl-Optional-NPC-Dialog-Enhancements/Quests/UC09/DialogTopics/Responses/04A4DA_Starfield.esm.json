@@ -1,0 +1,34 @@
+{
+  "FormKey": "04A4DA:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 4619564,
+      "TRDAUnknown": 4.0,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "There are no heroes without a villain. I simply arranged the opportunity for us to overcome one, and become the other."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x2093234CE8D4D701"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 7619595,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And we *all* benefited."
+      },
+      "ScriptNotes": "Highlight \"all\". You're referring to the player here.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x905099EC1ADCD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

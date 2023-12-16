@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B5D3:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84D:Starfield.esm",
+      "WEMFile": 13681299,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Next, we'll be heading outside. So, make sure to check those seals on your suit, because it's a bit chilly out there. Heh."
+      },
+      "ScriptNotes": "Amused at his \"joke\" about the cold. It's actually sub-zero.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30FA215E2312D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

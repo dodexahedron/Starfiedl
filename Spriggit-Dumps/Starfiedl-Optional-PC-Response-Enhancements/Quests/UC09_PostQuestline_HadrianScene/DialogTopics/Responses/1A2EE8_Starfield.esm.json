@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A2EE8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 4111472,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm just glad I was able to help."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50BD9EB4474CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

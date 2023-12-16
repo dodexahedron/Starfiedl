@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A6A5D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1918978,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "How in the world did you manage to deploy the Lazarus Plant on New Atlantis?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0BF043D35DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

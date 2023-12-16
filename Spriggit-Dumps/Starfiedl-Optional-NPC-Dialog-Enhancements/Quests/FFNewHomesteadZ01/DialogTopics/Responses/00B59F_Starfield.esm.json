@@ -1,0 +1,49 @@
+{
+  "FormKey": "00B59F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 6062209,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh, they are indeed! Colonists still cultivate plant-based food for their own consumption, here, in New Homestead."
+      },
+      "ScriptNotes": "",
+      "Edits": "Added commas",
+      "AlternateLipText": "",
+      "TextHash": "0x70FFDF43CFEBD701"
+    },
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 5702795,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's less vital to their survival, these days, as they also import supplemental food from other colonies, including meats, dairy, and synthetics."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90DF2396CFEBD701"
+    },
+    {
+      "Emotion": "0C866C:Starfield.esm",
+      "WEMFile": 11319454,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "However, most citizens here take pride in a New Homestead-grown sustainable diet."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x1012E9B4CFEBD701"
+    }
+  ],
+  "StartScene": "00B540:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

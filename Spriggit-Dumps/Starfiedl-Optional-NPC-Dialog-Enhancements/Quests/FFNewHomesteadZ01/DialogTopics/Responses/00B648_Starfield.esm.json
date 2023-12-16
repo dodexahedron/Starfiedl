@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B648:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 14011630,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Fun fact: It's also the only natural landmark on the tour!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x803F3A5D56ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

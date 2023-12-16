@@ -1,0 +1,29 @@
+{
+  "FormKey": "0E54A6:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 7287337,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, on behalf of the whole of the United Colonies, you have our thanks. You're dismissed."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x9002233ECC9DD701"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 1000
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

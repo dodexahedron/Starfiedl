@@ -1,0 +1,50 @@
+{
+  "FormKey": "1A69AB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 10441602,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, then... To our final topic."
+      },
+      "ScriptNotes": "Great gravity.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x0041AF2BD01CD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 381
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 400
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 401
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2EC8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7301475,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It was Percival's idea. My assignment is dangerous. He thinks I should bring along expert backup."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0DF7423859ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

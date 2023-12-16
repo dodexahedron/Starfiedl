@@ -1,0 +1,20 @@
+{
+  "FormKey": "010A8C:Starfield.esm",
+  "EditorID": "COM_Player_Dismiss",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9588607,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'd like to travel alone, for a while."
+      },
+      "ScriptNotes": "",
+      "Edits": "We're not breaking up...",
+      "AlternateLipText": "",
+      "TextHash": "0xA00F07F6E97BD201"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

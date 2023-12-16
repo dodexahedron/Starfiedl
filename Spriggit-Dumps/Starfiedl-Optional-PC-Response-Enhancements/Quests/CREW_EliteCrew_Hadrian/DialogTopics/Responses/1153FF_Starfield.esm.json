@@ -1,0 +1,19 @@
+{
+  "FormKey": "1153FF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10854341,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's about my field assignment... You know, I sure could use some backup..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x607845C7759ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

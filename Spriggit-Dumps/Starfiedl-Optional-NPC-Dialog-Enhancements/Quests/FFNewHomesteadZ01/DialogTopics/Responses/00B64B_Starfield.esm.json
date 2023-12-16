@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B64B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 4914604,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These pods are sealed and climate controlled - the perfect environment for growing the hydroponic vegetation needed for survival, in the early days of the colony."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0645796CAEBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

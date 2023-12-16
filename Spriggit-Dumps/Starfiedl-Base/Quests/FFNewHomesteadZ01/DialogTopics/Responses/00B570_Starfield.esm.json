@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B570:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8205758,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sadly, it's difficult to get additional construction done, inside these underground caverns."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x203AB4FF71ECD701"
+    },
+    {
+      "WEMFile": 67781,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, for now, additional populations are housed in these stacks of old shipping crates. As you might expect, this is where some of the less wealthy can afford to live."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0E8A01672ECD701"
+    },
+    {
+      "WEMFile": 15013170,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's not glamorous, but they are functional and cozy."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x505E102772ECD701"
+    }
+  ],
+  "StartScene": "00B535:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,33 @@
+{
+  "FormKey": "1A697E:Starfield.esm",
+  "EditorID": "UC09SharedInfo08",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 7266755,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We've been having similar debates, ourselves. But the Captain has yet to weigh in."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60A807357A21D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsAliasRefConditionData",
+        "FirstParameter": 1
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

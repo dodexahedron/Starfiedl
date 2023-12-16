@@ -1,0 +1,64 @@
+{
+  "FormKey": "14627F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C8670:Starfield.esm",
+      "WEMFile": 12132238,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 2.0
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The problem is that most of the tourists' injuries are from preventable accidents; things our people know how to avoid."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0DE15B1DFA0D601"
+    },
+    {
+      "Emotion": "0C8670:Starfield.esm",
+      "WEMFile": 1125496,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.9666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, often, I have to take care of them first, because they can't leave with their injuries. So I have to put off seeing my regular patients."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE04FB8D7DFA0D601"
+    },
+    {
+      "Emotion": "0C8670:Starfield.esm",
+      "WEMFile": 12904736,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.9666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, not only am I working extra hard for people who have little respect for me, it comes at the expense of our own."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF04B79FBDFA0D601"
+    }
+  ],
+  "StartScene": "146256:Starfield.esm",
+  "INTV": "0x02000000",
+  "StartScenePhase": "Responses01",
+  "SubtitlePriority": "Low"
+}

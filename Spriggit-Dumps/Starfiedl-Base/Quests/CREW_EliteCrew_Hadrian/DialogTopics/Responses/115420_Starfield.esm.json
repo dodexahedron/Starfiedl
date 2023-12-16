@@ -1,0 +1,44 @@
+{
+  "FormKey": "115420:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 16429169,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 4.6000004
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Been great so far. I'm happy to be working with Percival, again. I think the TMD's set up to make a real difference in the Settled Systems."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD07269E2769ED701"
+    },
+    {
+      "WEMFile": 10138299,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 4.666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm honored to be part of it. "
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10E975E8769ED701"
+    }
+  ],
+  "StartScene": "1B3A88:Starfield.esm",
+  "INTV": "0x02000000",
+  "StartScenePhase": "INTROPHASE",
+  "SubtitlePriority": "Low"
+}

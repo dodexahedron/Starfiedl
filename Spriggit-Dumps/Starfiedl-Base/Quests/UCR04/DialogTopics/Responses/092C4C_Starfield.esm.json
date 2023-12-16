@@ -1,0 +1,31 @@
+{
+  "FormKey": "092C4C:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "Random"
+    ]
+  },
+  "DialogGroup": "1E79C9:Starfield.esm",
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 11647575,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29D01C:Starfield.esm",
+          "UnknownFloat": 7.433334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Stay sharp out there, and come back to us in one piece."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0E21C19E60ED801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

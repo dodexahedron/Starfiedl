@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C54E:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1076197,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Watch your step outside, by the way. The ice can be slippery if you're not careful. The goal is to keep people out of Dr. Lakota's infirmary."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB01B01EC3212D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

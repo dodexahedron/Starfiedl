@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A6A7B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 11350273,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Good. The galaxy will be better without Vae Victis in it."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x702C2EE964D6D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

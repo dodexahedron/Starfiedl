@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A70:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 6714188,
+      "TRDAUnknown": 1.8666668,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You will all receive a full briefing, once we're done, here."
+      },
+      "ScriptNotes": "Trying to get control of your formal meeting.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE028BF5C1D1CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

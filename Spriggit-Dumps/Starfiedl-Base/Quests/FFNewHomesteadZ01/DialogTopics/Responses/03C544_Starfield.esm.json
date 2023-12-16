@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C544:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 284700,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "As you might imagine, generating energy was a real challenge, back in the day, because the technology was much more crude then."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x106C84123312D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

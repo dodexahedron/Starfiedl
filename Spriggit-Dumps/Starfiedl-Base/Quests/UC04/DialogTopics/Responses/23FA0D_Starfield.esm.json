@@ -1,0 +1,50 @@
+{
+  "FormKey": "23FA0D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 5905773,
+      "TRDAUnknown": 10.000001,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012494:Starfield.esm",
+          "UnknownFloat": 5.566667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That is worth considering. This attack took place on an almost completely uninhabitated world. The casualties were minimal, as a result..."
+      },
+      "ScriptNotes": "Billboard \"is\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90D29CEEC0A4D701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 11271626,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012494:Starfield.esm",
+          "UnknownFloat": 5.566667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, if there's another attack, will we be so lucky?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0AF2BF0C0A4D701",
+      "HNAM": {
+        "ReferenceAliasIDs": [
+          6
+        ]
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

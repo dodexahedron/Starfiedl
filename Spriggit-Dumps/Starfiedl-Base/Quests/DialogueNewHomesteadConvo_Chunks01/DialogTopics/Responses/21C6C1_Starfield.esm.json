@@ -1,0 +1,26 @@
+{
+  "FormKey": "21C6C1:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9444218,
+      "TRDAUnknown": 7.433334,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "00599A:Starfield.esm",
+          "UnknownFloat": 1.6666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Maybe it's just me then... Oh well; More for everyone else."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x9018237E1D9DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

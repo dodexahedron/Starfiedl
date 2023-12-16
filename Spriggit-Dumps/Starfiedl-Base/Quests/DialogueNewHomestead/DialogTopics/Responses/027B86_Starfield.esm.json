@@ -1,0 +1,33 @@
+{
+  "FormKey": "027B86:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9901602,
+      "TRDAUnknown": 3.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Of course you did. That's okay. It's a problem, here. Citizens and visitors, alike, have a right to know what's going on and when to expect a fix."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0984C197AE5D701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 9654382,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Problem is, I don't know how long we'll have to deal with this, because I'm needed here to oversee the whole system, and we don't currently have anyone available to go out and solve the issue at the moment."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90B14B487AE5D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,34 @@
+{
+  "FormKey": "00B645:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7747679,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You're looking at a piece of history! Sure, wind power is used throughout the galaxy. But, these people were able to make do with it for hundreds of years."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD00AFC29E9EBD701"
+    },
+    {
+      "WEMFile": 7616606,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's impressive that was all they had back then, and still make it work to this day!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0B4FC47E9EBD701"
+    }
+  ],
+  "StartScene": "00B53B:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

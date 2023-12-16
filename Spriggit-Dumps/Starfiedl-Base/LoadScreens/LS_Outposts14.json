@@ -1,0 +1,9 @@
+{
+  "FormKey": "18566D:Starfield.esm",
+  "EditorID": "LS_Outposts14",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "If you have an outpost containing Helium-3 fuel, it will extend the distance your ship can go in a single plotted grav jump."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\general\\starfield_general_003_color.dds"
+}

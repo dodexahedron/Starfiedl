@@ -1,0 +1,25 @@
+{
+  "FormKey": "21C6BD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 11591778,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042B:Starfield.esm",
+          "UnknownFloat": 9.400001
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We were learning about Jemison in my class, the other day. Can we go there some day, Mama?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x1034A317049DD601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

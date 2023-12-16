@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B5C6:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 1567268,
+      "TRDAUnknown": 5.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So: Let's talk about wind power, shall we?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00978261E7EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

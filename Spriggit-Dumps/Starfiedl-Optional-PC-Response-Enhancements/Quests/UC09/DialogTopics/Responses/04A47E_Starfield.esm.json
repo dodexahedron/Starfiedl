@@ -1,0 +1,19 @@
+{
+  "FormKey": "04A47E:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3995226,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Which method of dealing with the Terrormorphs are you and Dr. Walker leaning towards?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0808E58DCD7D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

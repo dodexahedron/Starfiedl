@@ -1,0 +1,21 @@
+{
+  "FormKey": "0E54FB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 8146709,
+      "TRDAUnknown": 7.466667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, while there should be no doubt the preservation of life stands paramount among this body's duties..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60CCF07AAD9AD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,63 @@
+{
+  "FormKey": "146278:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 16750834,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 3.966667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't. They make a mockery of New Homestead culture."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x901AD743DFA0D601",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_IrritatedNo_S03.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    },
+    {
+      "WEMFile": 220721,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.1333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, on top of it, they're reckless. It's like I said before: I feel like I'm treating them more often than our own people."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x2066379581E8D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "240431:Starfield.esm",
+        "SecondParameter": 210
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

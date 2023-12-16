@@ -1,0 +1,34 @@
+{
+  "FormKey": "1FA72E:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1956423,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "He confessed. He managed to orchestrate both attacks from his cell."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x7075D9CAFE20D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "1F42E4:Starfield.esm"
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": 220,
+    "OnEnd": -1
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

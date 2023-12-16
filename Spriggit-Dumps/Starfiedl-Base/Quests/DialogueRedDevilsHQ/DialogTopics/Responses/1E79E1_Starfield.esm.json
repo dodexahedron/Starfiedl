@@ -1,0 +1,21 @@
+{
+  "FormKey": "1E79E1:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 7090289,
+      "TRDAUnknown": 3.966667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These terrormorph attacks... They caught the UC off guard. UC brass doesn't like that."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x806406A7E83DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

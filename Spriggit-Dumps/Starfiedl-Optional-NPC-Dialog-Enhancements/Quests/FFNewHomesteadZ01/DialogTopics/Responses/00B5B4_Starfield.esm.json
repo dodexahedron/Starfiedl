@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5B4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10595663,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Anyway, we're headed into the Ice Mines! It's a natural spring, where water bubbles up from deep below. But, due to the cold, it keeps freezing, as it reaches the surface!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x5038E0A774ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

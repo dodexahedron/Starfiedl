@@ -1,0 +1,47 @@
+{
+  "FormKey": "1A0049:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C8670:Starfield.esm",
+      "WEMFile": 14761935,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "005984:Starfield.esm",
+          "UnknownFloat": 1.3666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't know much about Orlase... But, anyone with a sick mind like that needs to be tried for his crimes, and then dealt with appropriately."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x805DD61D7520D801"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsVoiceTypeConditionData",
+        "FirstParameter": "005984:Starfield.esm"
+      },
+      "ComparisonValue": 1.0
+    },
+    {
+      "MutagenObjectType": "ConditionGlobal",
+      "CompareOperator": "LessThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetDistanceConditionData",
+        "FirstParameter": "000014:Starfield.esm"
+      },
+      "ComparisonValue": "00D8A9:Starfield.esm"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

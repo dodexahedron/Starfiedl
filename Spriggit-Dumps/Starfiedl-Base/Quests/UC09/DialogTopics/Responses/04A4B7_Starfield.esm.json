@@ -1,0 +1,34 @@
+{
+  "FormKey": "04A4B7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 9483523,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We'll, of course, be launching a full investigation into how this could've happened."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x8028F4CCD1DBD701"
+    },
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 11732835,
+      "TRDAUnknown": 1.8000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Though, I have little doubt the Admiral will be quick to share all he knows, on the subject, once confronted with that recording."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x601963D8D1DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

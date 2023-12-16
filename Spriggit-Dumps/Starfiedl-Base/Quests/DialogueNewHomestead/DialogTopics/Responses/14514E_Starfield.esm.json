@@ -1,0 +1,60 @@
+{
+  "FormKey": "14514E:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "Random"
+    ],
+    "ResetHours": 5.9997253
+  },
+  "DialogGroup": "21C6BB:Starfield.esm",
+  "Responses": [
+    {
+      "WEMFile": 3114049,
+      "TRDAUnknown": 7.466667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "013ADD:Starfield.esm",
+          "UnknownFloat": 7.433334
+        },
+        {
+          "UnknownVoiceType": "2BCA2F:Starfield.esm",
+          "UnknownFloat": 3.9333336
+        },
+        {
+          "UnknownVoiceType": "2BCA36:Starfield.esm",
+          "UnknownFloat": 7.433334
+        },
+        {
+          "UnknownVoiceType": "09642C:Starfield.esm",
+          "UnknownFloat": 4.866667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "If you need medical attention, see Dr. Lakota. But, a word of warning: She really doesn't care for tourists."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x7064A86C9E5DD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "240431:Starfield.esm",
+        "SecondParameter": 20
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 201
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

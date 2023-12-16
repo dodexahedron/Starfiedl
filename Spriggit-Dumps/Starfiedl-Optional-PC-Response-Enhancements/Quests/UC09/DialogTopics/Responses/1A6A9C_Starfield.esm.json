@@ -1,0 +1,20 @@
+{
+  "FormKey": "1A6A9C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9974150,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "He made some grandiose claims about saving the UC and doing what nobody else would. But, deep down... He just wanted revenge."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD080C11CC6DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low",
+  "Perk": "227FD6:Starfield.esm"
+}

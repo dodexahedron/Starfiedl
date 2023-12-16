@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2ED0:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9020744,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Percival already okayed it. He thought we'd work well together - and so do I."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x309636DE849ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,34 @@
+{
+  "FormKey": "00B643:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12428578,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These days, it's a mix of what you find elsewhere in the galaxy. But, in the olden days, it was all brought over from Earth."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90E2BCEFCFEBD701"
+    },
+    {
+      "WEMFile": 12446095,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It was a lot of hardy root vegetables, like potatoes, carrots, beets, and such, supplemented with corn, peas, green beans, soy, et cetera, which didn't always grow as well."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE048FB45D0EBD701"
+    }
+  ],
+  "StartScene": "00B540:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

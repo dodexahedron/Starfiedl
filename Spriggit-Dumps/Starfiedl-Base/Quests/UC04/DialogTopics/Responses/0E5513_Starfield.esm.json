@@ -1,0 +1,21 @@
+{
+  "FormKey": "0E5513:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 14119385,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "As such, the Cabinet has authorized me to reinstate you, Hadrian - effectively immediately - to your former rank of Major."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x907444EEC99DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

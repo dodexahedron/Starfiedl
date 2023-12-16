@@ -1,0 +1,19 @@
+{
+  "FormKey": "04A502:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3197924,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I wanted to ask - During the outbreak, why not try to evacuate Londinion? Why blow the spaceport?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0F9279065DAD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

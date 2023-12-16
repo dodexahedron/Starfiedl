@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C551:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10639384,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, in reality, the term you hear more often is the plural, \"colles,\" with an \"e.\""
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x807082343512D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

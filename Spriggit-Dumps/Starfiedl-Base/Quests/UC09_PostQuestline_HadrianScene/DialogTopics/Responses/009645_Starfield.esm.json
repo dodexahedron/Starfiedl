@@ -1,0 +1,26 @@
+{
+  "FormKey": "009645:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 12369798,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.433334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And all I'd be doing is acknowledging that he still has some sway over my life. And, while I can't do anything about his role in my past..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80AB4D4D63EDD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "1E79EB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 9789110,
+      "TRDAUnknown": 3.966667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, they want us patrolling the front lines of xenological life - ensure we've got intel on any possible new alien threats. "
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10CC1450EE3DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

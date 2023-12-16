@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4F0:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 5450242,
+      "TRDAUnknown": 7.466667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Eliminating the Terrormorphs... Securing knowledge of the Lazarus Plant... What we've set in motion is going to protect thousands - maybe millions - of lives."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x607FC720FAD7D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,27 @@
+{
+  "FormKey": "0E54C9:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA854:Starfield.esm",
+      "WEMFile": 14853680,
+      "TRDAUnknown": 7.466667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 4.4333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Almost hard to believe. Suppose we were just in the right place, at the right time."
+      },
+      "ScriptNotes": "The timing of these attacks are almost a little too perfect.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0F47AB75D39D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

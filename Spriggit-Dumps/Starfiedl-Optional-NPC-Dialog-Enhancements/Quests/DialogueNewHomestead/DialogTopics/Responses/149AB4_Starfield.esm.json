@@ -1,0 +1,51 @@
+{
+  "FormKey": "149AB4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 11912832,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240430:Starfield.esm",
+          "UnknownFloat": 7.7333336
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, I'm trying to finish up my undergrad schooling, actually. I want to be a physicist, like my grandmother. Then, who knows what."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80EB77C3480ED801",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Shrug_RH_S01.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 3.5,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    },
+    {
+      "WEMFile": 13279437,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240430:Starfield.esm",
+          "UnknownFloat": 3.2000003
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But I also do some odd jobs, here or there, for money."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF01803C8480ED801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

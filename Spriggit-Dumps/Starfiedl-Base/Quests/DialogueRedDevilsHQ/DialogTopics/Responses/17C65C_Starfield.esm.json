@@ -1,0 +1,37 @@
+{
+  "FormKey": "17C65C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 9506689,
+      "TRDAUnknown": 4.6333337,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29D01C:Starfield.esm",
+          "UnknownFloat": 3.966667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, since dealing with unfriendly creatures falls square in your wheelhouse... Well, I figured we might be able to recruit you for the task."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0181EFC5BF0D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "1A690E:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

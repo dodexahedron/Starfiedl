@@ -1,0 +1,26 @@
+{
+  "FormKey": "04A511:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 2273154,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 1.8000001
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "A massive strike, capable of crippling the Collective capital and at long last breaking their will to fight."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0C4783667DAD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

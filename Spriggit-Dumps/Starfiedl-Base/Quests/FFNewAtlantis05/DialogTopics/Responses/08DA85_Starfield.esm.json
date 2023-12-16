@@ -1,0 +1,34 @@
+{
+  "FormKey": "08DA85:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 4932118,
+      "TRDAUnknown": 7.466667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "There should be a few working on the landing pads. If they don't know anything, move on to another."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x7009C9CF75CBD701"
+    },
+    {
+      "Emotion": "0FA84C:Starfield.esm",
+      "WEMFile": 2205596,
+      "TRDAUnknown": 5.666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Right now, we don't have any good leads. But, if anyone's seen anything, it'll give us something to go on."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB05A350976CBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

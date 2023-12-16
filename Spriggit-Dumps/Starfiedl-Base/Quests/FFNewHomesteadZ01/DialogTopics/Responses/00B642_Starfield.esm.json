@@ -1,0 +1,34 @@
+{
+  "FormKey": "00B642:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1372098,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh! I'm sorry, I completely forgot to mention that! That's what this place was originally called."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50789301ECEBD701"
+    },
+    {
+      "WEMFile": 13424671,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "When NASA divested its interest in the Astrobase, and turned it over to the people, back in 2185, they renamed it New Homestead, and established it as a historical site."
+      },
+      "ScriptNotes": "",
+      "Edits": "Removed an unsaid \"to\"",
+      "AlternateLipText": "",
+      "TextHash": "0xF0A49096ECEBD701"
+    }
+  ],
+  "StartScene": "00B53C:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

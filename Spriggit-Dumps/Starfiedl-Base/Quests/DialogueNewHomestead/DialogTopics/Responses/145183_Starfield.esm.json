@@ -1,0 +1,35 @@
+{
+  "FormKey": "145183:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84E:Starfield.esm",
+      "WEMFile": 1151348,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 0.6666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, I guess that went nowhere, so they had to sell it. Lucky me, I suppose."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA07BF1068D5DD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Shrug_BH_S02.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 4.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

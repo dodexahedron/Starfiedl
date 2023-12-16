@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C552:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 4034323,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The museum curator, Maurice Lyon, has more information about that, if you're interested. You can find him inside the main concourse. Loves talking about it."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10DF3C053D12D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4ED:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 5561742,
+      "TRDAUnknown": 5.033334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's why I had Orlase reprogram Kaiser - had that old machine guide you to where I found the plant, all those years ago. I went to great lengths, to ensure your and Hadrian's success."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0E38E54FCD7D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

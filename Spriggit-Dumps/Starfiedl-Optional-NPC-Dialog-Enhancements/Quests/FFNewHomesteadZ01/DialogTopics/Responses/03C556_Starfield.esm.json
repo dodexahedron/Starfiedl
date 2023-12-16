@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C556:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10182912,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Now, \"what's a collis,\" you might say? \"Collis\" derives from the latin word for \"hill,\" and scientists only gave names to groups of hills on a planet's surface."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x202EDAF73412D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

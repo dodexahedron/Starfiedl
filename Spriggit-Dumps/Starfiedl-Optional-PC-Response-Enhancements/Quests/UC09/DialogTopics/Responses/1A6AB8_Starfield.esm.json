@@ -1,0 +1,23 @@
+{
+  "FormKey": "1A6AB8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13046123,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It would demonstrate good faith that the UC isn't planning to secretly weaponize this, down the line."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x700FAF46C21CD701"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": 367,
+    "OnEnd": -1
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

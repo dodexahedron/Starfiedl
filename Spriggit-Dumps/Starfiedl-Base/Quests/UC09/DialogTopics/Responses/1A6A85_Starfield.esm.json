@@ -1,0 +1,42 @@
+{
+  "FormKey": "1A6A85:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 3399805,
+      "TRDAUnknown": 5.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, luckily, the natural hostility of Londinion makes keeping out trespassers relatively easy."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0DE4F82C01CD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 5590945,
+      "TRDAUnknown": 5.066667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012498:Starfield.esm",
+          "UnknownFloat": 1.5666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, we'll ensure its growth is contained, that access to the plant is only permitted via highly-regulated clearances, and that our troop presence on Londinion is increased."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30A9EA3C6DD6D701"
+    }
+  ],
+  "StartScene": "1A690D:Starfield.esm",
+  "INTV": "0x04000000",
+  "StartScenePhase": "UC09_Cab_Lazarus_Decision",
+  "SubtitlePriority": "Low"
+}

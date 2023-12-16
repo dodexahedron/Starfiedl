@@ -1,0 +1,33 @@
+{
+  "FormKey": "00B58E:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "WEMFile": 5636249,
+      "TRDAUnknown": 3.1666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Just be careful! It can get slippery out that way! I'll wait here."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70196EAD58ECD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_FriendlyYes_M02.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

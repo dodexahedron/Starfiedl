@@ -1,0 +1,25 @@
+{
+  "FormKey": "11459D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 14640574,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "1829FD:Starfield.esm",
+          "UnknownFloat": 4.9
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Haha, hell yes! I'm dying to know, what did everyone say? Lemme guess, They were all amazed!"
+      },
+      "ScriptNotes": "",
+      "Edits": "Added missing word",
+      "AlternateLipText": "",
+      "TextHash": "0xB0FD3427A388D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

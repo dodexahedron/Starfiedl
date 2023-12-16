@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2ECB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10215410,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I was hoping you'd come with me. I think we make a good team."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30388826769ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

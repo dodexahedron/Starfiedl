@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A508:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FDC77:Starfield.esm",
+      "WEMFile": 2585391,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "What luck he was stopped dead, before he could hurt anyone else. His decades on the run brought to an end, by another unlikely hero: you."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x5082874817DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

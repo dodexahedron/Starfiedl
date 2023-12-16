@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A76B7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 5302806,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So if I guessed things didn't go according to plan..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10BAA768B63FD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

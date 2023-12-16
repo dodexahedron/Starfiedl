@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5BE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3591525,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "They had this whole moon, here - basically made of hydrocarbons - in their own backyard. They just couldn't get to it! Incredible how far we've come."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE099A5313612D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,27 @@
+{
+  "FormKey": "1A6A15:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 2531371,
+      "TRDAUnknown": 0.86666673,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Orlase's ship would land on our target, bearing a few heatleeches - nothing that would raise suspicion."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x2045DE70C520D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

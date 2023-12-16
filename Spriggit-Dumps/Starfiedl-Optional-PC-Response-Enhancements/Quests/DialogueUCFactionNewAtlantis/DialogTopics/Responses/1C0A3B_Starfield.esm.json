@@ -1,0 +1,19 @@
+{
+  "FormKey": "1C0A3B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7886600,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Sacrifice one city to save others... I suppose I can see the logic there."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x000C658AB83FD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

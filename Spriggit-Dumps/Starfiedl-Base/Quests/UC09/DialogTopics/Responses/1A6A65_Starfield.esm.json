@@ -1,0 +1,31 @@
+{
+  "FormKey": "1A6A65:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 2139496,
+      "TRDAUnknown": 7.433334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Considering what the Lazarus Plant is capable of, I don't think we can deal with those things fast enough."
+      },
+      "ScriptNotes": "",
+      "Edits": "can, not can't",
+      "AlternateLipText": "",
+      "TextHash": "0x30B722D00821D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "04A45C:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

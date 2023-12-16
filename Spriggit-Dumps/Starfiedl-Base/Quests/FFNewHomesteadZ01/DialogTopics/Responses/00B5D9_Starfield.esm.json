@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B5D9:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10466506,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Good question. It's largely the same, because this was the colony that pioneered the techniques you see elsewhere."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD06557D1DBEBD701"
+    },
+    {
+      "WEMFile": 243335,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But you'll notice that the farms, here, are smaller, and staffed by humans, not robots."
+      },
+      "ScriptNotes": "",
+      "Edits": "Just commas",
+      "AlternateLipText": "",
+      "TextHash": "0x50D6D5DF4B12D801"
+    },
+    {
+      "WEMFile": 11992587,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Things, here, are a little more old-fashioned, compared to some of the large factory farms you'll find elsewhere, in the Settled Systems."
+      },
+      "ScriptNotes": "",
+      "Edits": "Commas",
+      "AlternateLipText": "",
+      "TextHash": "0xD0C5C44EDCEBD701"
+    }
+  ],
+  "StartScene": "00B540:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

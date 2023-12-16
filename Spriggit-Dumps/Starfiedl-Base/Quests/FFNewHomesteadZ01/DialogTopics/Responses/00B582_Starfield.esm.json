@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B582:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 6811180,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, NASA defunded the xenobiology program in 2132. But, a scientist by the name of Katherine Nealy proposed research into advanced colony building, on inhospitable worlds."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x20E4FF3EE3EBD701"
+    },
+    {
+      "WEMFile": 60140,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, by 2135, work began on what would ultimately set us all up to create habitats anywhere humans dared to explore."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x105BEE0CE3EBD701"
+    },
+    {
+      "WEMFile": 14812761,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These very labs housed the computer systems used in that research. That, and general storage for the colony. Lots of storage."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30931C7CE3EBD701"
+    }
+  ],
+  "StartScene": "00B53C:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

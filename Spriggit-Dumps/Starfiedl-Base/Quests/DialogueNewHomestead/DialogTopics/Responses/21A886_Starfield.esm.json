@@ -1,0 +1,25 @@
+{
+  "FormKey": "21A886:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 5247057,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.1666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "There's no breathable air on the surface, and you'll quickly freeze to death, outside, without protective gear. But, otherwise, the hazards are minimal."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70829313D9A0D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

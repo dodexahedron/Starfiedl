@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B596:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8881213,
+      "TRDAUnknown": 3.2000003,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm not sure the exact count, but New Homestead is a fairly small colony."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50DBB5C772ECD701"
+    },
+    {
+      "WEMFile": 13616290,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "What you see is what you get, for the most part, except for some other people who live in the private lower levels."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00C61FF072ECD701"
+    },
+    {
+      "WEMFile": 14670788,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Some, particularly security and yours truly, even commute from other worlds."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10D7262773ECD701"
+    }
+  ],
+  "StartScene": "00B535:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

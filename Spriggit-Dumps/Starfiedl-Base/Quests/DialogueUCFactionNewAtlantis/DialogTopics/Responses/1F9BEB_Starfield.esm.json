@@ -1,0 +1,19 @@
+{
+  "FormKey": "1F9BEB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3990858,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Actually, I'd like to start by helping Percival out with these \"new alien threats.\""
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA04C5450AA3BD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

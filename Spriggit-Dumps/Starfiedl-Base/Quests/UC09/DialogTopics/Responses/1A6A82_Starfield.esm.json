@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A82:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 12868053,
+      "TRDAUnknown": 5.1333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The Cabinet has agreed to support the removal of the Terrormorphs - and now, the heatleeches - from human worlds."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x403602BB9F21D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

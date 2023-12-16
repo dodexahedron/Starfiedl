@@ -1,0 +1,25 @@
+{
+  "FormKey": "146DD5:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 16381214,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240425:Starfield.esm",
+          "UnknownFloat": 6.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't know. It just is! Now, we don't want to fall behind, so let's get back to it, okay, kiddo?"
+      },
+      "ScriptNotes": "Trying not to get annoyed, even though this shatters his worldview a bit.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB074684A8E5CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

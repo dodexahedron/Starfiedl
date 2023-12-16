@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A0B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 14657883,
+      "TRDAUnknown": 4.8,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Madam President, this microbe is clearly too much of a risk. The aceles are the safer approach."
+      },
+      "ScriptNotes": "Arguing a point you feel strongly about. \"Aceles\" said \"A-CEE-leez\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x40F5CBF79D21D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,35 @@
+{
+  "FormKey": "2AAE27:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 7802079,
+      "TRDAUnknown": 1.5666667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012498:Starfield.esm",
+          "UnknownFloat": 5.1000004
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, on behalf of the whole of the United Colonies, we thank you, Captain. You're dismissed."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70A7702C831DD601"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 1000
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

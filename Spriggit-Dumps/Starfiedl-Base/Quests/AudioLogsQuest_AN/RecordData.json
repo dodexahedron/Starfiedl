@@ -1,0 +1,15 @@
+{
+  "FormKey": "24CC1B:Starfield.esm",
+  "EditorID": "AudioLogsQuest_AN",
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "StartsEnabled",
+      "RunOnce",
+      "0x100000"
+    ],
+    "Unused": "0x000000"
+  },
+  "UnusedConditions": [],
+  "Aliases": []
+}

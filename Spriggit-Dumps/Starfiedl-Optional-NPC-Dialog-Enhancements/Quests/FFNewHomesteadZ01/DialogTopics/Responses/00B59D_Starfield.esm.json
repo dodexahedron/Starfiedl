@@ -1,0 +1,38 @@
+{
+  "FormKey": "00B59D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 2647638,
+      "TRDAUnknown": 1.6000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Exports, mostly. Since this world is so methane-rich, and has the infrastructure for it, a lot of the UC's methane comes from Titan."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80741A04F0EBD701"
+    },
+    {
+      "WEMFile": 4742587,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Of course, New Homesteaders use it, themselves, for everything from generating heat to turning it into breathable oxygen via modern science!"
+      },
+      "ScriptNotes": "Excitedly exclaiming \"Modern Science!\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB076CFA2F1EBD701"
+    }
+  ],
+  "StartScene": "00B539:Starfield.esm",
+  "INTV": "0x01000000",
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 560
+  },
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

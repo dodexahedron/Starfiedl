@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A53:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 2542899,
+      "TRDAUnknown": 5.6000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The three of you have likely spared thousands of lives. But, it now falls to the Cabinet to ensure this can never. happen. again."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90BDACD78821D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

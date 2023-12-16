@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B584:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 520239,
+      "TRDAUnknown": 3.1666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Let's leave these good people alone, for now, and go check out the farms! Follow me up the elevator. *awkward laugh*"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB01F493F73ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

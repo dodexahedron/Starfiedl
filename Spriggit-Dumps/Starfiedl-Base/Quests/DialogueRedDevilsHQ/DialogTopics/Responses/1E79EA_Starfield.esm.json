@@ -1,0 +1,21 @@
+{
+  "FormKey": "1E79EA:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 7476003,
+      "TRDAUnknown": 7.433334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "There is just one additional wrinkle. UC spec'd this as a one-person job, but I convinced them this sort of task merits... expert back-up."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0DCC7F1D33DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

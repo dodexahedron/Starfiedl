@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A46C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 7568738,
+      "TRDAUnknown": 2.1333334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "No. We were sacrificed, when all we did was serve. So, I arranged the attacks to set things right again. My daughter: She becomes a hero."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00A6A5F86ED2D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,97 @@
+{
+  "FormKey": "2E89A9:Starfield.esm",
+  "EditorID": "RM_MeiTerminal_Menu",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mei's Computer"
+  },
+  "TMVT": "0x01000000",
+  "DNAM": "0x01",
+  "SNAM": "0x00000000",
+  "INAM": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "BodyTexts": [],
+  "MenuItems": [
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Recent Contract Renewal"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000000008000000",
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "You're making a good choice keeping us under contract, Mei. Even if they could break their jurisdiction, Freestar Rangers wouldn't keep you half as safe as we can. I know some of our contractors have a reputation for being rough around the edges, maybe even rude, but that reputation is part of why your establishment is so safe with us.\r\n\r\nYou'll notice that incidents of debtors skipping out have been down 79% since we started. Physical altercations between patrons are down 52%. And, pirate attacks? They're virtually non-existent. So, remember that, when it comes time for our annual rates to go up. It's not just safer: It's good business sense.\r\n\r\n-Madeleine Stocker"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "I'm not a doctor!"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000000008000000",
+      "ItemId": 1,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Mei, you gotta stop sending your injured runners my way. I don't have medical training. Best I got is staples, glue, tape, and a lot of absorbant materials. These people need more than what I can provide them, and I'm pretty sure the reason some of them haven't come back is because they died in transit to a real hospital.\r\n\r\nDon't be cheap, Mei. Hire a damn doctor! I'm sure you can find one seedy enough for your operation on Neon. Hell, I might even know a guy who knows a guy.\r\n\r\n-Lon"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Successful Extraction"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000ABAB08000000",
+      "ItemId": 2,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Ms. Devine,\r\nYour tip was most appreciated. Our Tracker was able to find Mr. Whiting at your establishment and extract him without causing a scene. Your patrons were none the wiser. That should settle the matter our employer hired us to take care of, and we no longer require your services at this time. Thank you for your cooperation, and feel free to reach out if you ever require our services.\r\n\r\n-Zee"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Quarterly Report"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000ABAB08000000",
+      "ItemId": 3,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "I'll drop by sometime with the full report, but I wanted to share with you the good news.\r\nEarnings have been up this quarter by 14%, despite the retirement of your most popular runner. Costs have only increased by 1.5%. So whatever you're doing, I recommend keeping it up.\r\n\r\n-Jingyi"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Fire in the Kitchen"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000000008000000",
+      "ItemId": 4,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "First, let me say sorry, Mei. It was a real slow night and no orders were coming in, and we just wanted to see what would happen if we tried to cook one of the little creatures that came crawling up that Gary found outside. \r\n\r\nWe didn't know it'd produce that much smoke that quickly when we baked it, and we didn't know the smell would be so rank. You can take the cost of a new oven out of my pay, just please don't fire me. \r\n\r\nI need this job!\r\n\r\n-Zahra"
+      }
+    }
+  ]
+}

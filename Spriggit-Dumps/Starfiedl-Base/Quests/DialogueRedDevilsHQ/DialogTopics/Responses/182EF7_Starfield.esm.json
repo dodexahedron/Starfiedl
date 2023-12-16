@@ -1,0 +1,20 @@
+{
+  "FormKey": "182EF7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 666933,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Major Sanon constructed me, in an attempt to accomplish all those needs. I believe my field record would show that she was successful."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70C5D7DDDB37D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

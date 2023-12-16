@@ -1,0 +1,26 @@
+{
+  "FormKey": "145179:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 8241909,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 4.4333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I bought it from a private seller. They said they got it from someone who wore it in secondary school, as their sports team mascot."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE05805C78C5DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B67F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13010280,
+      "TRDAUnknown": 8.5,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "According to ancient Norse mythology, Ymir was the first jötunn, a frost giant. In the legend, they were both male and female, and gave birth to the progenitors of all giants, from their armpits."
+      },
+      "ScriptNotes": "Ymir = \"Ee-meer\". jötunn = \"Yo-ton\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x3063D41166ECD701"
+    },
+    {
+      "WEMFile": 5936809,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Ymir even predated the Norse gods, who, as it turns out, killed Ymir to fashion the Earth, and all of humanity, from the corpse."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x804F3D91EFEDD701"
+    },
+    {
+      "WEMFile": 7121475,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's a fascinating story, and the Horn here is a fitting tribute to it."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50C3822D67ECD701"
+    }
+  ],
+  "StartScene": "00B537:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,25 @@
+{
+  "FormKey": "149A45:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13925038,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240430:Starfield.esm",
+          "UnknownFloat": 7.7333336
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Because, honestly, I'm not sure I want to stay here. It'll always be my home. But, as soon as I can afford to, I'd love to explore my options."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30D21B4DDB58D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

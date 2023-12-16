@@ -1,0 +1,74 @@
+{
+  "FormKey": "1A69E6:Starfield.esm",
+  "EditorID": "UC09SharedInfo20",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 14425369,
+      "TRDAUnknown": 2.1666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "My hope would be that whatever connections he's got to the outside world disappear."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD00D9AF30D21D701"
+    },
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 2523915,
+      "TRDAUnknown": 1.8666668,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Make sure his future schemes and machinations stay in his cell, with him."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0ABF4277721D701"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 14839911,
+      "TRDAUnknown": 7.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, honestly, I'm not sure."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE067C7A08E1AD701"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 12177201,
+      "TRDAUnknown": 7.1333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "He's in a unique position... and has done a special kind of harm to the Colonies."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x800E88A38E1AD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsAliasRefConditionData",
+        "FirstParameter": 1
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "StartScene": "1A6912:Starfield.esm",
+  "INTV": "0x05000000",
+  "StartScenePhase": "UC09_HadPer_KnowVV_Punishment",
+  "SubtitlePriority": "Low"
+}

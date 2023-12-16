@@ -1,0 +1,9 @@
+{
+  "FormKey": "18566B:Starfield.esm",
+  "EditorID": "LS_Outposts16",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Zoology skill reduces the number of times you need to scan animals, and reveals additional information about them, like strengths and weaknesses."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\general\\starfield_general_045_color.dds"
+}

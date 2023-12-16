@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A89:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 14488786,
+      "TRDAUnknown": 7.433334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Microbe needed minimal adjustment to account for heatleech anatomy."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x103518B8A11AD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

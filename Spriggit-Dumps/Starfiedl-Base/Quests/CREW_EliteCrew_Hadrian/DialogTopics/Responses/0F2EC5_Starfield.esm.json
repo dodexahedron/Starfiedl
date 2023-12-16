@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2EC5:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10825721,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "A soldier as talented as you belongs in the field. I think you should come with me."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA036BAE97B9ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

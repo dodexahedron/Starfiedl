@@ -1,0 +1,97 @@
+{
+  "FormKey": "06A03D:Starfield.esm",
+  "EditorID": "NH_GiulianaTerminalPatientNotes_SubMenu",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Patient Notes"
+  },
+  "TMVT": "0x00000000",
+  "DNAM": "0x01",
+  "SNAM": "0x00000000",
+  "INAM": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "BodyTexts": [],
+  "MenuItems": [
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Lisken, Emily"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000000008000000",
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Patient: Emily Lisken\r\n\r\nPatient suffered a fall, while out touring the icy crags, south of New Homestead. Patent was airlifted here, with injuries to both legs. Fractured two metatarsals on left foot. Treated and set the wounds. Prescribed extra-strength painkillers and called it a day.\r\n"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Tommason, Jasirra"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000000008000000",
+      "ItemId": 1,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Patient: Jasirra Tommason\r\n\r\nMrs. Tommason came in complaining of acute frostbite. Turns out she was just very cold. Prescribed hot cocoa and told her to stay outside, if she can't tell the difference between being cold and actual frostbite."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Wendt, Marco"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000ABAB08000000",
+      "ItemId": 2,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Patient: Marco Wendt\r\n\r\nMarco thought it would be a good idea to sneak into the Methane Plant, by himself, instead of sticking to the tour. Almost asphyxiated on Methane, and had to be given oxygen. He'll live."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Glasgow, Terry"
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ISET": "0x0000ABAB08000000",
+      "ItemId": 3,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Patient: Terry Glasgow\r\n\r\nTerry is a local - one of my regulars. Normally, Terry is a bit of a hypochondriac, but this was just a regular yearly physical. No abnormalities. Bloodwork looks mostly good. LDL cholesterol is a little high. Needs to cut down on fatty foods and exercise more."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "ItemShortText": {
+        "TargetLanguage": "English",
+        "Value": "Kowalczyk, Piera"
+      },
+      "ISET": "0x0000000008000000",
+      "ItemId": 4,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Patient: Piera Kowalczyk\r\n\r\nTreated 2nd degree burns on mid brachium, from leaning on a steam pipe. Claimed she was just trying to get warm. Learned a lesson. Instructed her to apply heal paste 3/day and keep the burn dressed with infused bandages."
+      }
+    }
+  ]
+}

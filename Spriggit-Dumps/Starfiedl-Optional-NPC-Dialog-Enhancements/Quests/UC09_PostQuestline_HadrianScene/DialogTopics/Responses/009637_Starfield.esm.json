@@ -1,0 +1,26 @@
+{
+  "FormKey": "009637:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84F:Starfield.esm",
+      "WEMFile": 11117473,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 1.4333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Words... can't do justice to how grateful I am for that."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0BB96C066EDD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,58 @@
+{
+  "FormKey": "00B5B1:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E865:Starfield.esm",
+      "WEMFile": 12123590,
+      "TRDAUnknown": 7.1333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "How about that? You really know your stuff! Maybe you should be the one giving the tour? Heh. I kid!"
+      },
+      "ScriptNotes": "Still very friendly. Try to avoid sounding condescending or sarcastic, and keep it playful.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0CDD58467ECD701"
+    },
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 10696992,
+      "TRDAUnknown": 9.900001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm not sure. I heard someone say that, before. Something about the worn-down remains of an ancient volcano, producing ice via steam?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB06D55EB67ECD701"
+    },
+    {
+      "Emotion": "118A4D:Starfield.esm",
+      "WEMFile": 1959144,
+      "TRDAUnknown": 3.5000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't know. It sounds like you understand this stuff better than I do."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE05C06EE67ECD701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Shrug_LH_M01.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScene": "00B537:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,26 @@
+{
+  "FormKey": "04A521:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA853:Starfield.esm",
+      "WEMFile": 16457046,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 8.233334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Killed all those people because of a chip on his shoulder and an obsession with his own status... That sounds like Vae Victis."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA010728AD6D4D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4CE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 12566041,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "In fact, we've already begun enacting measures to check all UC ports and settlements for undiscovered nests... But, we all understand this is only a partial solution."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA08C9670E4DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5D0:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 871689,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "What we're about to see is a glacial spire we affectionately call, \"Ymir's Horn.\""
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x8005F99A57ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

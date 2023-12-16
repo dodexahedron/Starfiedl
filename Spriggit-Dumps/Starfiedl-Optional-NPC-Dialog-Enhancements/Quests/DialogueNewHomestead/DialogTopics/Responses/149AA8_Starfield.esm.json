@@ -1,0 +1,25 @@
+{
+  "FormKey": "149AA8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 2137251,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "240430:Starfield.esm",
+          "UnknownFloat": 3.1666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The Crates are what we call the living quarters for the poor people, like me. They're made from old shipping containers. We have to make do with the space we have, here."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80F976E0D958D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

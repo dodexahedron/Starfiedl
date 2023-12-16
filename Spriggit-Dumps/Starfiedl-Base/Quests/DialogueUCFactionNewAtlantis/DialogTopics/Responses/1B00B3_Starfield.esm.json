@@ -1,0 +1,26 @@
+{
+  "FormKey": "1B00B3:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 6992314,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 9.766667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "A massive strike, capable of obliteraing Freestar Central Command and ending the conflict, at long last."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60E93419B83FD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,9 @@
+{
+  "FormKey": "05B3D6:Starfield.esm",
+  "EditorID": "LS_LoreTimeline05",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "History of the Settled Systems - Sol Date: 2240-2263\r\nHouse Va'ruun wages the Serpent's Crusade: A campaign of open violence against every other faction in the Settled Systems."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\space\\starfield_space_062_color.dds"
+}

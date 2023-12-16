@@ -1,0 +1,25 @@
+{
+  "FormKey": "21A899:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12642059,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.8333334
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "New Homestead was an early colony research base, and has stood the test of time. It's safe, and it's proof that people can live pretty much anywhere."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00A5CD62D9A0D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

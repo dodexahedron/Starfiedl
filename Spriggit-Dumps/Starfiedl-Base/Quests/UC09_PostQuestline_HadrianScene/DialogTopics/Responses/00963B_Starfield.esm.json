@@ -1,0 +1,40 @@
+{
+  "FormKey": "00963B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0C866F:Starfield.esm",
+      "WEMFile": 12084877,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 2.966667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm not about to let him control my future. I'm ready to start something new. And, thanks to you, I'm getting a chance to do it."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x203D4FD066EDD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetInCellConditionData",
+        "FirstParameter": "28DC4A:Starfield.esm"
+      }
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 105
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

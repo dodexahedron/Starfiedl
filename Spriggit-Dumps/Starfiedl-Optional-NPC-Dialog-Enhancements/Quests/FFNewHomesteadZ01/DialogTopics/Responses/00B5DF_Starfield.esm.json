@@ -1,0 +1,23 @@
+{
+  "FormKey": "00B5DF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "118A4D:Starfield.esm",
+      "WEMFile": 3449422,
+      "TRDAUnknown": 3.3000002,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh, uh...? No one's ever asked me that, before. I uh... hm... Something to do with methane-eating microbes, I believe? I honestly don't know. Sorry."
+      },
+      "ScriptNotes": "Catches him off guard, and he's not sure of the answer, but he think he's heard something about methane-eating microbes.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50269E92F2EBD701"
+    }
+  ],
+  "StartScene": "00B539:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

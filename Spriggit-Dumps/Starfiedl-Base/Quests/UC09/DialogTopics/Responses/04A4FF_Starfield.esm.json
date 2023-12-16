@@ -1,0 +1,58 @@
+{
+  "FormKey": "04A4FF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 4560777,
+      "TRDAUnknown": 1.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Easy to say now."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x504C3F701DDBD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 3306339,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, at the time, I didn't know the Lazarus Plant couldn't be plucked from the ground and used to cause even more death."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50D6F8E81FDBD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 5679995,
+      "TRDAUnknown": 10.000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I wasn't going to allow another dangerous variable be added to an already catastrophic war."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x209CB3AE1DDBD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 127
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

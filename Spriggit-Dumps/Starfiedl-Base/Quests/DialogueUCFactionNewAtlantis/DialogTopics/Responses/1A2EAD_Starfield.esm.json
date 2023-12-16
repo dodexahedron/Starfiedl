@@ -1,0 +1,25 @@
+{
+  "FormKey": "1A2EAD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 12625843,
+      "TRDAUnknown": 4.6333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Oh, and I got a request from Dr. Walker: Wanted your help collecting biological samples, to keep an eye out for any, uh... \"new alien threats on the horizon.\""
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x000DBC64A43BD701"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 600
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,36 @@
+{
+  "FormKey": "009632:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 10622134,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Because confronting him... What would I have gained from that - from letting him remind me I can never truly be rid of him? Nothing. "
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x806499EA3942D801"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetInCellConditionData",
+        "FirstParameter": "2AAE8C:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

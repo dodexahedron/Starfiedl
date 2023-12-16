@@ -1,0 +1,30 @@
+{
+  "FormKey": "12FC5E:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "Random"
+    ]
+  },
+  "DialogGroup": "11131C:Starfield.esm",
+  "Responses": [
+    {
+      "WEMFile": 8891918,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "09642C:Starfield.esm",
+          "UnknownFloat": 4.566667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Do you have a spaceship? I want to get a spaceship, when I'm older. They're so cool!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD08D0BFF7D0DD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

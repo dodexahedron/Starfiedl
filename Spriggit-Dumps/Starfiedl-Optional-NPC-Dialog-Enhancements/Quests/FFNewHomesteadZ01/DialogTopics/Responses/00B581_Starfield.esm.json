@@ -1,0 +1,46 @@
+{
+  "FormKey": "00B581:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12686201,
+      "TRDAUnknown": 8.733334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Ah, it's not as if they shut down for a month. It's not shut down at all, actually."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60E83749F3EBD701"
+    },
+    {
+      "WEMFile": 841623,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "See, this place is built with redundant systems, so they can shut it down piece by piece and suffer only a reduction in throughput."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x002FBD96F3EBD701"
+    },
+    {
+      "WEMFile": 16073074,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "During that time, the UC gets more of its resources from other places, allowing New Homestead to maintain what it needs."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30541DF8EEEDD701"
+    }
+  ],
+  "StartScene": "00B539:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

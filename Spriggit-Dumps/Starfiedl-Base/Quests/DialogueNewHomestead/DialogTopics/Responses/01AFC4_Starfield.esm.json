@@ -1,0 +1,44 @@
+{
+  "FormKey": "01AFC4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E863:Starfield.esm",
+      "WEMFile": 16492977,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 9.8
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well, that's a relief. Sorry if I sounded a bit hostile."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x5009D93675E8D701"
+    },
+    {
+      "Emotion": "0FA850:Starfield.esm",
+      "WEMFile": 5360987,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 0.033333335
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's just frustrating, sometimes, that I have to devote so much time and energy to outside people, when our own people need me more."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60B60A3975E8D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

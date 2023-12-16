@@ -1,0 +1,414 @@
+{
+  "FormKey": "1145EE:Starfield.esm",
+  "EditorID": "City_NewAtlantis_Z_SpreadingTheNews",
+  "VirtualMachineAdapter": {
+    "Script": {
+      "Name": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+      "Properties": [
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "NewsSlateReview",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 9
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Catherine",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 2
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "George",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 1
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Tommy",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 0
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "NewsSlateSanctum",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 10
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "pCity_NA_Z_SpreadTheNewsDataSlate",
+          "Object": "114588:Starfield.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "NewsSlate",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 7
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Royce",
+          "Object": "1145EE:Starfield.esm",
+          "Alias": 5
+        }
+      ]
+    },
+    "Fragments": [
+      {
+        "Stage": 20,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_0020_Item_00"
+      },
+      {
+        "Stage": 40,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_0040_Item_00"
+      },
+      {
+        "Stage": 50,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_0050_Item_00"
+      },
+      {
+        "Stage": 10,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_0010_Item_00"
+      },
+      {
+        "Stage": 1000,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_1000_Item_00"
+      },
+      {
+        "Stage": 30,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_City_NewAtlantis_Z_Spread_001145EE",
+        "FragmentName": "Fragment_Stage_0030_Item_00"
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Spreading the News"
+  },
+  "Data": {
+    "Flags": [
+      "RunOnce",
+      "0x10000"
+    ],
+    "Priority": 50,
+    "Unused": "0x000000"
+  },
+  "QuestType": "047600:Starfield.esm",
+  "UnusedConditions": [],
+  "Stages": [
+    {
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Startup Scene",
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 10,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Player gets the data slates from Tommy and is tasked with delivering them. Display objectives",
+          "Entry": {
+            "TargetLanguage": "English",
+            "Value": "Tommy Bitlow has asked me to deliver three data slates of his journalism to people around New Atlantis. He hopes that if more people read and enjoy his content, SSNN will start to take him more seriously. "
+          },
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 20,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Speak to George Saint-George",
+          "Entry": {
+            "TargetLanguage": "English",
+            "Value": "George Saint-George read over Tommy's work and didn't enjoy it. His criticism was harsh to say the least."
+          },
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 30,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Speak to Royce Elgin",
+          "Entry": {
+            "TargetLanguage": "English",
+            "Value": "Royce certainly wasn't pleased with what Tommy wrote about Dawn's Roost. "
+          },
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 40,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Speak to Catherine Alvarez",
+          "Entry": {
+            "TargetLanguage": "English",
+            "Value": "It seems like Catherine was offended by Tommy's article on the Sanctum Universum."
+          },
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 50,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Return to Tommy with the bad news that everyone hated his journalism",
+          "Entry": {
+            "TargetLanguage": "English",
+            "Value": "Maybe one day Tommy will hit the big time. But judging by some of the reactions to his writing I saw, that won't be anytime soon."
+          },
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 1000,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [
+            "CompleteQuest"
+          ],
+          "Note": "Completion phase.",
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x01000000",
+              "RewardDatas": [
+                {
+                  "XpAwarded": "23DF34:Starfield.esm",
+                  "BonusCredits": "Null",
+                  "Rewards": [
+                    {
+                      "Item": "026B0F:Starfield.esm",
+                      "Count": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Objectives": [
+    {
+      "Index": 20,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Deliver slate to George Saint-George"
+      },
+      "Targets": [
+        {
+          "AliasID": 1
+        }
+      ]
+    },
+    {
+      "Index": 30,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Deliver slate to Royce Elgin"
+      },
+      "Targets": [
+        {
+          "AliasID": 5
+        }
+      ]
+    },
+    {
+      "Index": 40,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Deliver slate to Catherine Alvarez"
+      },
+      "Targets": [
+        {
+          "AliasID": 2
+        }
+      ]
+    },
+    {
+      "Index": 50,
+      "Flags": [],
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Return to Tommy"
+      },
+      "Targets": [
+        {}
+      ]
+    }
+  ],
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "Name": "Tommy Bitlow",
+      "Flags": [
+        "Essential",
+        "AllowDisabled"
+      ],
+      "ALFG": 0,
+      "UniqueActor": "1829FC:Starfield.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 1,
+      "Name": "George SG",
+      "Flags": [
+        "Essential"
+      ],
+      "ALFG": 0,
+      "UniqueActor": "115A48:Starfield.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 2,
+      "Name": "Catherine Alvarez",
+      "Flags": [
+        "Essential"
+      ],
+      "ALFG": 0,
+      "UniqueActor": "07BE08:Starfield.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 5,
+      "Name": "Royce Elgin",
+      "Flags": [
+        "Essential"
+      ],
+      "ALFG": 0,
+      "UniqueActor": "1C2BAF:Starfield.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 7,
+      "Name": "Data Slate",
+      "Flags": [
+        "QuestObject",
+        "CreateRefTemp"
+      ],
+      "ALFG": 0,
+      "CreateReferenceToObject": {
+        "Object": "114588:Starfield.esm",
+        "Create": "In"
+      },
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 9,
+      "Name": "Data Slate - Review",
+      "Flags": [
+        "QuestObject",
+        "CreateRefTemp"
+      ],
+      "ALFG": 0,
+      "CreateReferenceToObject": {
+        "Object": "114585:Starfield.esm",
+        "Create": "In"
+      },
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 10,
+      "Name": "Data Slate - Sanctum",
+      "Flags": [
+        "QuestObject",
+        "CreateRefTemp"
+      ],
+      "ALFG": 0,
+      "CreateReferenceToObject": {
+        "Object": "114584:Starfield.esm",
+        "Create": "In"
+      },
+      "VoiceTypes": "Null"
+    }
+  ]
+}

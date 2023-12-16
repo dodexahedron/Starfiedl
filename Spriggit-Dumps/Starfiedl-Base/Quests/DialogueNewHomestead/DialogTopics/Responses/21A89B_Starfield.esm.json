@@ -1,0 +1,34 @@
+{
+  "FormKey": "21A89B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1517087,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.1666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's a harsh world, but, as long as you're inside, or wear a suit when going out, you'll be fine, here."
+      },
+      "ScriptNotes": "She doesn't think this is a big deal.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x006C39C18459D701",
+      "BNAM": "2C02F2:Starfield.esm",
+      "STRV": "$(Subgraph)\\Relaxed_Lib_Shrug_RH_S01.af",
+      "VCLR": "Null",
+      "FLMV": "0x00000000",
+      "FLAV": "0x00000000",
+      "QUAL": true,
+      "LVCR": 0.0,
+      "ATAC": "0x00000000",
+      "XNAM": true
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

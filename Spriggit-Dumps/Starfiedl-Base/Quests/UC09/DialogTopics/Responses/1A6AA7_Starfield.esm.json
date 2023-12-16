@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6AA7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 10430413,
+      "TRDAUnknown": 5.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, then, is what this second report claims correct? Did Reginald Orlase commit these attacks, Captain?"
+      },
+      "ScriptNotes": "Deathly serious.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0816974C523D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A515:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 6574959,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "As such, the Cabinet will be securing the Lazarus Plant on Londinion. All materials related to the plant will be classified, to ensure no one else learns its true nature."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x609FD476D2DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

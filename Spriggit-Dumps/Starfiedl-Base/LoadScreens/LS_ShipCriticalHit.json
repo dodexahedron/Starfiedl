@@ -1,0 +1,9 @@
+{
+  "FormKey": "03E1E4:Starfield.esm",
+  "EditorID": "LS_ShipCriticalHit",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Critical hits against an enemy ship can occasionally kill its entire crew, leaving it \"dead in the water.\"  "
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\starfield_destruction_color.dds"
+}

@@ -1,0 +1,29 @@
+{
+  "FormKey": "1FA71B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 15370234,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So - Both approaches are effective at clearing our worlds of heatleeches?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50CEA8180821D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "04A45C:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

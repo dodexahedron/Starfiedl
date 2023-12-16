@@ -1,0 +1,34 @@
+{
+  "FormKey": "00B5A1:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 551694,
+      "TRDAUnknown": 3.4,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You're right! Most surface wind on Titan isn't too terribly strong. But, here, the altitude and other conditions are perfect for sustained wind power."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE07F355FEEEDD701"
+    },
+    {
+      "WEMFile": 3137755,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Like many worlds with atmosphere, the higher you go, the windier it gets."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB07F868FEAEBD701"
+    }
+  ],
+  "StartScene": "00B53B:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "Questions01",
+  "SubtitlePriority": "Low"
+}

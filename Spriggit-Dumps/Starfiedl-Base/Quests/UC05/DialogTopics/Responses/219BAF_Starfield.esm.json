@@ -1,0 +1,40 @@
+{
+  "FormKey": "219BAF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 1632036,
+      "TRDAUnknown": 7.2333336,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2A395E:Starfield.esm",
+          "UnknownFloat": 5.0000005
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And I do mean cooperate. Threats and violence are off the table, here."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x800EFCC042B6D701"
+    },
+    {
+      "Emotion": "0FA851:Starfield.esm",
+      "WEMFile": 12289560,
+      "TRDAUnknown": 9.966667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Though, that doesn't mean we can't get creative."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90F6C1C142B6D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

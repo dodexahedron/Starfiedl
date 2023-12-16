@@ -1,0 +1,28 @@
+{
+  "FormKey": "1A6ABC:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84B:Starfield.esm",
+      "WEMFile": 11388624,
+      "TRDAUnknown": 2.0333335,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Hell of a sight to watch, though - when they catch them. Like an open airlock guzzling angry spaghetti."
+      },
+      "ScriptNotes": "This was a traumatizing experience.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xC0DD80760C21D701",
+      "HNAM": {
+        "ReferenceAliasIDs": [
+          -2
+        ]
+      }
+    }
+  ],
+  "StartScene": "1FA713:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "UC09_Had_QuestionsLoop",
+  "SubtitlePriority": "Low"
+}

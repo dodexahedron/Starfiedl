@@ -1,0 +1,21 @@
+{
+  "FormKey": "0066AD:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 1566002,
+      "TRDAUnknown": 7.433334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We're trying to build a comprehensive picture, here, which requires specific cells, from specific family lines, of some oftentimes unfriendly creatures."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50555E0758F0D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

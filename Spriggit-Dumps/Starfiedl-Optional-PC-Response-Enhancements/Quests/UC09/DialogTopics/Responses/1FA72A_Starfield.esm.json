@@ -1,0 +1,30 @@
+{
+  "FormKey": "1FA72A:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7714028,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That's all I had. Let's head in there."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x7022F8C49E1AD701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 300
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

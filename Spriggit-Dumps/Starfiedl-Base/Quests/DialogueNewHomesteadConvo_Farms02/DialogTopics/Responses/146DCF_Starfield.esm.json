@@ -1,0 +1,26 @@
+{
+  "FormKey": "146DCF:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "154F0E:Starfield.esm",
+      "WEMFile": 13968529,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042B:Starfield.esm",
+          "UnknownFloat": 6.6000004
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Papa, you're always talking about how important it is to preserve our traditions... But, why do we have to farm? How is that part of our tradition?"
+      },
+      "ScriptNotes": "Curious tone",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x5024CDB08C5CD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

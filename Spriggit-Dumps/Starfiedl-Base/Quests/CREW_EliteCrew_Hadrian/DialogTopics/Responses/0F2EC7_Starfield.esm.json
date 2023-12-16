@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2EC7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 1677868,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You're right. Maybe this should wait for another time."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90D024797F9ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

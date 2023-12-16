@@ -1,0 +1,34 @@
+{
+  "FormKey": "0E5506:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 5044080,
+      "TRDAUnknown": 5.1333337,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Not in a million years. Another attack, just as we're making our request? It's... insane."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB067E44F5E9FD701"
+    },
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 4175233,
+      "TRDAUnknown": 5.033334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "If this doesn't convince the Cabinet to proceed with our request, I don't know what will."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x40E986505E9FD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

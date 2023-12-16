@@ -1,0 +1,19 @@
+{
+  "FormKey": "0F2ECE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 9044462,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Would you ever consider leaving Mars, again?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0E10FD77A9ED701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

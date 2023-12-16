@@ -1,0 +1,9 @@
+{
+  "FormKey": "18567C:Starfield.esm",
+  "EditorID": "LS_Outposts01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Botany skill allows you to produce plant-derived organic resources, at your outposts."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\outpost\\starfield_outpost_023_color.dds"
+}

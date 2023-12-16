@@ -1,0 +1,20 @@
+{
+  "FormKey": "1A0058:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13420403,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's obvious. You're angry about what the UC did to you. This is nothing more than petty revenge, and you know it."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x1066411B3DDAD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low",
+  "Perk": "227FD6:Starfield.esm"
+}

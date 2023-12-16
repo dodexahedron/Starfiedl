@@ -1,0 +1,27 @@
+{
+  "FormKey": "23FA34:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E863:Starfield.esm",
+      "WEMFile": 15581628,
+      "TRDAUnknown": 9.866667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012498:Starfield.esm",
+          "UnknownFloat": 9.900001
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That's a relief to hear. Thank you, gentlemen. Let your people all know how much we owe them, today."
+      },
+      "ScriptNotes": "You just found out the Terrormorphs are all dead and the city's saved.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB0E160708193D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

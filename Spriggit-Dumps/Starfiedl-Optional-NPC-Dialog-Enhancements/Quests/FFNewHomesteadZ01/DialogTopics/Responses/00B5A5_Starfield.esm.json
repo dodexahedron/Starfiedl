@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5A5:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 10312302,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "This collis used to be named after a character in a popular fantasy novel. But, it was changed a couple hundred years ago, to avoid any potential litigation."
+      },
+      "ScriptNotes": "pronounced \"Coll-liss\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x20E4FA2A60ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

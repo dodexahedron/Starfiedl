@@ -1,0 +1,9 @@
+{
+  "FormKey": "18567A:Starfield.esm",
+  "EditorID": "LS_Crime03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "You may be able to yield to guards, if you holster your weapon immediately after starting a fight with them."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\landscape\\starfield_landscape_017_color.dds"
+}

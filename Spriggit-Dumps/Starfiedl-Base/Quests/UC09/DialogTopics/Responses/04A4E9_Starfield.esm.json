@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4E9:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 13779589,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "No. I want us to display, plainly, the UC's actual intentions - that the plant will never be used as a weapon, again."
+      },
+      "ScriptNotes": "With gravity. You're concluding an argument right here.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB01DE7B9F9DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B67E:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12779408,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The museum's curator, Maurice, will be happy to talk to you, if you want to know more."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x20780C4D84ECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A4B8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA853:Starfield.esm",
+      "WEMFile": 6124894,
+      "TRDAUnknown": 0.5666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So... You want us to make nice with the Collective, by sharing our state secrets?"
+      },
+      "ScriptNotes": "You think this is a terrible idea.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90FB5975F9DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

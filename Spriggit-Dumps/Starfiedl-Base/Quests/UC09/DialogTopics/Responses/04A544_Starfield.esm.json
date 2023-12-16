@@ -1,0 +1,82 @@
+{
+  "FormKey": "04A544:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 11077015,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Aceles aren't hostile to humans. But, they are mega-fauna. If someone decides to pick a fight with one, it could get ugly."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x700CB44FD3D7D701"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 3228626,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, they've already been spread far and wide once, before, when the UC was raising them as livestock, so, the risk of introducing them to new worlds is minimal."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90D315D7FADAD701"
+    },
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 10101650,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 0.033333335
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Using them to clean up the terrormorphs and leeches, though - it's not going to be nearly as expedient as the microbe would be."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90E725B8FADAD701"
+    },
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 9501796,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 0.033333335
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Given what we know now about the Lazarus Plant, the speed of the job *does* matter. But, going with the aceles, we're at least dealing with known risks."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA00A0C8FF6DAD701"
+    }
+  ],
+  "StartScene": "1FA713:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "UC09_Had_QuestionsLoop",
+  "SubtitlePriority": "Low"
+}

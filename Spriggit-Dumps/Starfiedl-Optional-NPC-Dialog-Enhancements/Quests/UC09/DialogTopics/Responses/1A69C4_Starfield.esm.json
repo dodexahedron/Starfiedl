@@ -1,0 +1,42 @@
+{
+  "FormKey": "1A69C4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 12721835,
+      "TRDAUnknown": 5.066667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "With the threads you've brought together, here: the Lazarus Plant, the attacks, the heatleeches..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50C92BF18321D701"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 360
+      },
+      "ComparisonValue": 1.0
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetStageDoneConditionData",
+        "FirstParameter": "1FC858:Starfield.esm",
+        "SecondParameter": 361
+      }
+    }
+  ],
+  "StartScenePhase": "Start",
+  "SubtitlePriority": "Low"
+}

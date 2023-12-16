@@ -1,0 +1,27 @@
+{
+  "FormKey": "23F5AB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 7675580,
+      "TRDAUnknown": 5.5000005,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012498:Starfield.esm",
+          "UnknownFloat": 5.066667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "In exchange, we're willing to fast-track your citizenship, upon collection of the data."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x20EB6F557BF9D601"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "04A47F:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 6303698,
+      "TRDAUnknown": 7.466667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "All I ask is that you confirm as much to the Cabinet. Tell them that it was Orlase, and Orlase alone."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x40605BE3F8DAD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

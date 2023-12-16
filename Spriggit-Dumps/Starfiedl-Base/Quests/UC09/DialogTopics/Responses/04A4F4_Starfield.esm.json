@@ -1,0 +1,46 @@
+{
+  "FormKey": "04A4F4:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "18E864:Starfield.esm",
+      "WEMFile": 2162421,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 1.7666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "It's hard to know. Unlike my father, the Cabinet aren't butchers... But, killing UC citizens, along with everything else he's done, is unforgivable."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x7060D308D0DBD701"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 12490959,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But, if you're really that concerned, you could request they be lenient. They might be willing to spare him."
+      },
+      "ScriptNotes": "But making a concession to the players concerns.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60CB9C1BD0DBD701"
+    }
+  ],
+  "StartScene": "1FA713:Starfield.esm",
+  "INTV": "0x01000000",
+  "StartScenePhase": "UC09_Had_QuestionsLoop",
+  "SubtitlePriority": "Low"
+}

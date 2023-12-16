@@ -1,0 +1,30 @@
+{
+  "FormKey": "00963C:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84F:Starfield.esm",
+      "WEMFile": 5891245,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 0.6
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'm not about to let him control my future. And, thanks to what we've done together, that future is brighter than it has been in a long time."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x001FDBA734F0D701"
+    }
+  ],
+  "SetParentQuestStage": {
+    "OnBegin": -1,
+    "OnEnd": 105
+  },
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

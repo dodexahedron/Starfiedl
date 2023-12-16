@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A2EE2:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 11801021,
+      "TRDAUnknown": 7.433334,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Or, you could help the TMD in cleaning up Terrormorphs."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xA0051130AA3BD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,9 @@
+{
+  "FormKey": "18567B:Starfield.esm",
+  "EditorID": "LS_Crime02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "You can hail guard ships in combat, if you want to surrender to them."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\space\\starfield_space_041_color.dds"
+}

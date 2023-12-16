@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C54D:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 3813252,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "You'll find most of the locals, here, are very friendly to tourists like yourself."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x304763F13D12D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

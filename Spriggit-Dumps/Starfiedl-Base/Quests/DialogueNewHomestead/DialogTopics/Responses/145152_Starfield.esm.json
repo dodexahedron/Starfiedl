@@ -1,0 +1,25 @@
+{
+  "FormKey": "145152:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 7071537,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "24042E:Starfield.esm",
+          "UnknownFloat": 1.8666668
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I guess it was supposed to be a tardigrade or something? Anyway, the person I bought it from modified it, a bit, so they could use it in an independent movie they were making."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xF0293BF18C5DD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "1FC800:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 11475650,
+      "TRDAUnknown": 5.566667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Precisely. It was the only choice one could make, when confronted with something so dangerous."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x2012612DCF19D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "00B5AB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12339429,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I don't have any more questions, right now."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x10956572EFEBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

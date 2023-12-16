@@ -1,0 +1,21 @@
+{
+  "FormKey": "08D107:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 16581268,
+      "TRDAUnknown": 7.3666673,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "That's right. Classified station, top secret projects, et cetera, et cetera."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x5079715593CBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

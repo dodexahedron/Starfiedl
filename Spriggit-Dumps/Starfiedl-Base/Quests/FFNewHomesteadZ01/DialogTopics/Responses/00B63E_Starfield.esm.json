@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B63E:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8453962,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "These turbines have been integral to the colony's function, since its establishment, as a cheap, mostly reliable, source of electricity."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x1079CE37E7EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

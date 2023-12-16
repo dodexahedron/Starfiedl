@@ -1,0 +1,29 @@
+{
+  "FormKey": "0C8C9B:Starfield.esm",
+  "EditorID": "LS_VS_AbandonedBases",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Settled Systems is littered with abandoned outposts, bases, and research stations - most of them military leftovers from the two great galactic wars."
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsCurrentLocationConditionData",
+        "FirstParameter": "028A08:Starfield.esm"
+      },
+      "ComparisonValue": 1.0
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetQuestRunningConditionData",
+        "FirstParameter": "003448:Starfield.esm"
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\outpost\\starfield_outpost_023_color.dds"
+}

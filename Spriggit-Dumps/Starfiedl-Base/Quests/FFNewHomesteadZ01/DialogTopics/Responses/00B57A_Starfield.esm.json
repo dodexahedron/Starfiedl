@@ -1,0 +1,36 @@
+{
+  "FormKey": "00B57A:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "0x40"
+    ]
+  },
+  "Responses": [
+    {
+      "WEMFile": 4828206,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "By all means, go right ahead. Feel free to talk to the farmers, but I ask you respect their privacy, and don't bother them too much. After all, they are on the job."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x60BB3D79D1EBD701"
+    },
+    {
+      "WEMFile": 9853705,
+      "TRDAUnknown": 6.366667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Come back and let me know when you're ready to move on."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30D47E86D1EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

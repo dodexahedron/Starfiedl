@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A69FE:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 7114064,
+      "TRDAUnknown": 1.8000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I hope everyone here understands that what has just been shared is a state secret of the *highest* order. This information does not. leave. this. room."
+      },
+      "ScriptNotes": "Simmering with anger.",
+      "Edits": "Added emphasis as in the audio",
+      "AlternateLipText": "",
+      "TextHash": "0x206A38347D21D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

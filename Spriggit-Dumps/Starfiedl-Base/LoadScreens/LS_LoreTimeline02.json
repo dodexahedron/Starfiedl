@@ -1,0 +1,9 @@
+{
+  "FormKey": "05B3D3:Starfield.esm",
+  "EditorID": "LS_LoreTimeline02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "History of the Settled Systems - Sol Date: 2176\r\nWith production of the psychotropic chem, Aurora, in full swing, the enormous Xenofresh Industries fishing rig becomes the pleasure city of Neon."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\neon\\starfield_neon_002_color.dds"
+}

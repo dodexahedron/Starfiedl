@@ -1,0 +1,21 @@
+{
+  "FormKey": "00B5BB:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "154F0E:Starfield.esm",
+      "WEMFile": 9784914,
+      "TRDAUnknown": 9.166667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Have any questions, so far?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD08BFBF46FECD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

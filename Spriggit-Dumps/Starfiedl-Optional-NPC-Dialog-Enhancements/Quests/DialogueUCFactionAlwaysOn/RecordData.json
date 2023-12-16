@@ -1,0 +1,263 @@
+{
+  "FormKey": "14618F:Starfield.esm",
+  "EditorID": "DialogueUCFactionAlwaysOn",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "UCParentFactionQuestScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "NPCFTerrormorphThrall",
+            "Object": "19D58D:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "UC_MindControlledNPC",
+            "Object": "2997DD:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Thrall_TakeOverStart",
+            "Object": "338E0C:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "UC04_ReconstructionStateTimerLength",
+            "Object": "0DD205:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "NPCMTerrormorphThrall",
+            "Object": "19D58E:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HumanRace",
+            "Object": "00347D:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Aggression",
+            "Object": "0002BC:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "UC_MindControl_InitialAggression",
+            "Object": "21676B:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "CityNewAtlantisLocation",
+            "Object": "01295A:Starfield.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Thralls",
+            "Object": "14618F:Starfield.esm",
+            "Alias": 6
+          }
+        ]
+      }
+    ],
+    "Script": {
+      "Name": "Fragments:Quests:QF_DialogueUCFactionAlwaysOn_0014618F",
+      "Properties": [
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Alias_ReconstructionMarker",
+          "Object": "14618F:Starfield.esm",
+          "Alias": 1
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "DialogueUCFactionNewAtlantis",
+          "Object": "2C5402:Starfield.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Alias_OverhangMarker",
+          "Object": "14618F:Starfield.esm",
+          "Alias": 3
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "UC04_PostAttackDialogueActive",
+          "Object": "23F92A:Starfield.esm"
+        }
+      ]
+    },
+    "Fragments": [
+      {
+        "Stage": 990,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_DialogueUCFactionAlwaysOn_0014618F",
+        "FragmentName": "Fragment_Stage_0990_Item_00"
+      },
+      {
+        "Stage": 1000,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_DialogueUCFactionAlwaysOn_0014618F",
+        "FragmentName": "Fragment_Stage_1000_Item_00"
+      }
+    ],
+    "Aliases": [
+      {
+        "Property": {
+          "Name": "",
+          "Object": "14618F:Starfield.esm",
+          "Alias": 6
+        },
+        "Scripts": [
+          {
+            "Name": "ThrallCollVOCleanUpScript",
+            "Properties": [
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "NPCMTerrormorphThrall",
+                "Object": "19D58E:Starfield.esm"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "NPCFTerrormorphThrall",
+                "Object": "19D58D:Starfield.esm"
+              },
+              {
+                "MutagenObjectType": "ScriptObjectProperty",
+                "Name": "CrTerrormorphMindControlEffect_NPC",
+                "Object": "23F94D:Starfield.esm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "StartsEnabled",
+      "RunOnce"
+    ],
+    "Priority": 10,
+    "Unused": "0x000000"
+  },
+  "UnusedConditions": [],
+  "Stages": [
+    {
+      "Index": 990,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "UC04 RECONSTRUCTION STATE: Set from UC04. Start the timer for cleaning up the UC04 final state change.",
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 1000,
+      "Unknown": 171,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "UC04 TARMAC: Clean up timer completed and the player's not in New Atlantis. Turn off the state change.",
+          "StageCompleteDatas": [
+            {
+              "QSRD": "0x00000000"
+            },
+            {
+              "QSRD": "[]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestLocationAlias",
+      "ID": 2,
+      "Name": "CityNewAtlantisLocation",
+      "Flags": [],
+      "ALFG": 0,
+      "SpecificLocation": "01295A:Starfield.esm"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "Name": "Player",
+      "Flags": [],
+      "ALFG": 0,
+      "UniqueActor": "000007:Starfield.esm",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 1,
+      "Name": "ReconstructionMarker",
+      "Flags": [],
+      "ALFG": 0,
+      "Location": {
+        "AliasID": 2,
+        "RefType": "136110:Starfield.esm"
+      },
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 3,
+      "Name": "OverhangMarker",
+      "Flags": [
+        "AllowDisabled"
+      ],
+      "ALFG": 0,
+      "Location": {
+        "AliasID": 2,
+        "RefType": "03EF60:Starfield.esm"
+      },
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestLocationAlias",
+      "ID": 5,
+      "Name": "SimulatorCellLoc",
+      "Flags": [
+        "ReservesLocationOrReference",
+        "AllowReuseInQuest",
+        "AllowReserved",
+        "AllowCleared"
+      ],
+      "ALFG": 0,
+      "SpecificLocation": "224C6B:Starfield.esm"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "ID": 6,
+          "ALAM": 0,
+          "ReferenceAlias": {
+            "ID": 6,
+            "Name": "Thralls",
+            "Flags": [
+              "Optional"
+            ],
+            "ALFG": 0,
+            "Keywords": [
+              "21B1FC:Starfield.esm",
+              "0F223F:Starfield.esm"
+            ],
+            "VoiceTypes": "Null"
+          }
+        }
+      ]
+    }
+  ]
+}

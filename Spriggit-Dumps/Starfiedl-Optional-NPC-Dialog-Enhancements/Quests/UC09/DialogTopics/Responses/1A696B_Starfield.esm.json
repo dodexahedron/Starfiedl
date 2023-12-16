@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A696B:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 16457941,
+      "TRDAUnknown": 1.8000001,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "Well... Once we inform the Cabinet, they can ensure he won't be able to do anything like this ever again."
+      },
+      "ScriptNotes": "You want to see your father punished for his role in this.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x402A8CCF0D21D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "1F9BE7:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 13888831,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I'd like to run a Vanguard mission. I've only ever really done the one."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE019E7F6341FD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

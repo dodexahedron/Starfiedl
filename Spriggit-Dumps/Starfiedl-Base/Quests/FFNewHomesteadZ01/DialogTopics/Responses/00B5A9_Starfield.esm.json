@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B5A9:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 8457333,
+      "TRDAUnknown": 3.266667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We're going out into the frozen wastes of Titan, to see what powers this planet."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x101A02A63212D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

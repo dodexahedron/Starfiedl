@@ -1,0 +1,69 @@
+{
+  "FormKey": "04A517:Starfield.esm",
+  "EditorID": "UC09SharedInfo28",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FDC77:Starfield.esm",
+      "WEMFile": 10416272,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "I become a trusted advisor, having found Kaiser, the research team..."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x90244D486BDAD701"
+    },
+    {
+      "Emotion": "0FDC77:Starfield.esm",
+      "WEMFile": 3390632,
+      "TRDAUnknown": 3.266667,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 3.2000003
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And cement my new position of influence, when I hand them the name of the person responsible for the attack on New Atlantis:"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x402FED310F42D801"
+    },
+    {
+      "Emotion": "0FDC77:Starfield.esm",
+      "WEMFile": 5840389,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 3.266667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "The dear departed Doctor Reginald Orlase. The associate who aided me all these years... and whom I always slated to take the fall."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x205E39F94642D801"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetIsAliasRefConditionData"
+      },
+      "ComparisonValue": 1.0
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

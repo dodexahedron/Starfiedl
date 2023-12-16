@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A6A97:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 5419957,
+      "TRDAUnknown": 5.566667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "A strike perpetrated in mere moments, with no one being the wiser."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xE0ECFC15C0DBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,19 @@
+{
+  "FormKey": "1A6977:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 16043955,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "[Lie] Orlase is dead. Things went... badly. I'm still shaken up. Can we not talk about it, right now?"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x50B6B151DB23D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

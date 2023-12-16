@@ -1,0 +1,26 @@
+{
+  "FormKey": "009640:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 356184,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29C457:Starfield.esm",
+          "UnknownFloat": 7.3666673
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "But... I knew the answer before I even finished the thought: I didn't."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x80CFC3E6D6EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

@@ -1,0 +1,26 @@
+{
+  "FormKey": "1C09F8:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA849:Starfield.esm",
+      "WEMFile": 7375589,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "2CE227:Starfield.esm",
+          "UnknownFloat": 4.8333335
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "We couldn't spare ships for a proper quarantine, so it was my decision to destroy the spaceport and seal off the city... Deal with it quickly, so we could get back to winning the war."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0287867B83FD801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

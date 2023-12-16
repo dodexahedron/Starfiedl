@@ -1,0 +1,26 @@
+{
+  "FormKey": "04A4A0:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA84B:Starfield.esm",
+      "WEMFile": 15245135,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "012497:Starfield.esm",
+          "UnknownFloat": 3.3000002
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "(Stammering) That-that... That's impossible! He doesn't have the kind of access to--"
+      },
+      "ScriptNotes": "You seriously can't believe what you just heard.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x801CF9C53FD6D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

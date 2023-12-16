@@ -1,0 +1,43 @@
+{
+  "FormKey": "027B6B:Starfield.esm",
+  "Flags": {
+    "Flags": [
+      "Random"
+    ]
+  },
+  "DialogGroup": "027B74:Starfield.esm",
+  "Responses": [
+    {
+      "WEMFile": 12550356,
+      "TRDAUnknown": 4.9333334,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "052C15:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        },
+        {
+          "UnknownVoiceType": "052C16:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        },
+        {
+          "UnknownVoiceType": "052C17:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        },
+        {
+          "UnknownVoiceType": "052C18:Starfield.esm",
+          "UnknownFloat": 7.466667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "New Homestead is a living history exhibit. But these are real people, so please be kind to them."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x40C2FC7864E5D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

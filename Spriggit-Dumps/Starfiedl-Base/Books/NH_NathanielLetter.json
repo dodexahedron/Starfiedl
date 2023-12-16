@@ -1,0 +1,39 @@
+{
+  "FormKey": "06A028:Starfield.esm",
+  "EditorID": "NH_NathanielLetter",
+  "ObjectBounds": {
+    "First": "-0.057495117, -0.14001465, 0.0011901855",
+    "Second": "0.057495117, 0.14001465, 0.0284729"
+  },
+  "ODTY": 0.0,
+  "Transforms": {
+    "Inventory": "0C6500:Starfield.esm"
+  },
+  "XALG": "0x0800000000000000",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Letter to the School Board"
+  },
+  "Model": {
+    "File": "setdressing/office/notepadsnotebooks\\office_papernote01.nif",
+    "FLLD": "0x01000000"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "To whom it may concern:\r\n\r\nMy daughter Sylvie is part of the UC Remote World Learning Program. In this month's study kit, she was assigned a book titled \"The Hills Cry Jemison.\" As I do all books assigned to her, I took to reading it first, to judge suitability for my daughter.\r\n\r\nHow do you get off giving her this garbage to read? Her assigned learning counselor tells us it's really about building friendships, learning to tolerate others' differences, and overcoming adversity. That's all fine and good. Those are important lessons. But, I see it for what it is: Nothing but propaganda, promoting your planet. My daughter is a proud New Homesteader, and I see to it she remains that way. I don't want her getting silly ideas in her head about picking up from her home and family, and moving to your consumer wasteland of a world. Sylvie will NOT be reading this book.\r\n\r\nI want my daughter to learn, but if you keep sending her material that pushes her away from me, I'll have no choice but to home school her, which places a huge burden on my family, due to our farming responsibilities. Please reconsider the reading material you send our way.\r\n\r\n-Nathaniel Manila"
+  },
+  "Keywords": [
+    "11A47A:Starfield.esm",
+    "1FC86C:Starfield.esm"
+  ],
+  "Flags": [
+    "0x20"
+  ],
+  "Teaches": {
+    "MutagenObjectType": "BookTeachesNothing"
+  },
+  "CNAM": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

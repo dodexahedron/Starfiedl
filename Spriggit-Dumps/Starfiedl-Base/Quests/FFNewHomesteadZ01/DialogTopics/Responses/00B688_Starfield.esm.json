@@ -1,0 +1,20 @@
+{
+  "FormKey": "00B688:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 12092006,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "New Homestead's farms are the beating heart of the colony. Without them, the original outpost would have shriveled and died!"
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x30308F1676EBD701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

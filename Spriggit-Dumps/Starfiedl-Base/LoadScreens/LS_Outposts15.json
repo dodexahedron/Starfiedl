@@ -1,0 +1,9 @@
+{
+  "FormKey": "18566C:Starfield.esm",
+  "EditorID": "LS_Outposts15",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The Zoology skill allows you to produce animal-derived organic resources, at your outposts."
+  },
+  "Loadscreen": "Data\\textures\\interface\\loadscreens\\generic\\general\\starfield_general_047_color.dds"
+}

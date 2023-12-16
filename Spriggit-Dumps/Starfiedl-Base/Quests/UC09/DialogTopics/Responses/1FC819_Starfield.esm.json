@@ -1,0 +1,21 @@
+{
+  "FormKey": "1FC819:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0FA851:Starfield.esm",
+      "WEMFile": 14827225,
+      "TRDAUnknown": 2.1666667,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "When I heard you and Hadrian were headed for Londinion, of all places, I presumed you must be onto something big."
+      },
+      "ScriptNotes": "Falsely friendly. You know exactly what they've been up to.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x00117093BA20D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

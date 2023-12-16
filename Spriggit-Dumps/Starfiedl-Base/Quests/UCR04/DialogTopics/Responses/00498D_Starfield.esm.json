@@ -1,0 +1,76 @@
+{
+  "FormKey": "00498D:Starfield.esm",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "DefaultTopicInfoSetGlobal",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SetGlobalOnEnd",
+            "Object": "00498C:Starfield.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 15799177,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29D01C:Starfield.esm",
+          "UnknownFloat": 4.9666667
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "And, so you know, you shouldn't need to kill these critters, to harvest the required cells. This isn't the same level of analysis we were doing with the Terrormorphs."
+      },
+      "ScriptNotes": "Highlight \"need\"",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xD0EB42C5967AD801"
+    },
+    {
+      "Emotion": "0D755D:Starfield.esm",
+      "WEMFile": 7924220,
+      "TROTs": [
+        {
+          "UnknownVoiceType": "29D01C:Starfield.esm",
+          "UnknownFloat": 7.4000006
+        }
+      ],
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "A little will go a long way here. Just get close, take a few scrapings, and get out before they see you."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x503BC27B877AD801"
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "0066A9:Starfield.esm"
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "GetGlobalValueConditionData",
+        "FirstParameter": "00498C:Starfield.esm"
+      }
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

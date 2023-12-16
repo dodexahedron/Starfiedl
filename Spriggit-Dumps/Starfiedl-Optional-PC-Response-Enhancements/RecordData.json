@@ -1,0 +1,78 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Starfield",
+    "Version": "0.13.0"
+  },
+  "ModKey": "Starfiedl-Optional-PC-Response-Enhancements.esm",
+  "GameRelease": "Starfield",
+  "ModHeader": {
+    "Flags": [
+      "Master"
+    ],
+    "Stats": {
+      "NumRecords": 86,
+      "NextFormID": 2051
+    },
+    "Author": "dodexahedron",
+    "Description": "Additional modifications to player character response text",
+    "MasterReferences": [
+      {
+        "Master": "Starfield.esm"
+      },
+      {
+        "Master": "BlueprintShips-Starfield.esm"
+      },
+      {
+        "Master": "Starfiedl-Base.esm"
+      }
+    ],
+    "OverriddenForms": [
+      "00B599:Starfield.esm",
+      "00B5AB:Starfield.esm",
+      "00B706:Starfield.esm",
+      "00B719:Starfield.esm",
+      "010A7C:Starfield.esm",
+      "010A8C:Starfield.esm",
+      "04A47E:Starfield.esm",
+      "04A502:Starfield.esm",
+      "04A5D4:Starfield.esm",
+      "1153FF:Starfield.esm",
+      "11542B:Starfield.esm",
+      "17F1B0:Starfield.esm",
+      "182EDC:Starfield.esm",
+      "182F50:Starfield.esm",
+      "1A0058:Starfield.esm",
+      "1A007A:Starfield.esm",
+      "1A2347:Starfield.esm",
+      "1A2EE8:Starfield.esm",
+      "1A2F47:Starfield.esm",
+      "1A6977:Starfield.esm",
+      "1A6A5D:Starfield.esm",
+      "1A6A7B:Starfield.esm",
+      "1A6A97:Starfield.esm",
+      "1A6A9C:Starfield.esm",
+      "1A6AB8:Starfield.esm",
+      "1A6B26:Starfield.esm",
+      "1A6B3C:Starfield.esm",
+      "1A6B89:Starfield.esm",
+      "1A6B94:Starfield.esm",
+      "1A6BA5:Starfield.esm",
+      "1A6BCE:Starfield.esm",
+      "1A76A0:Starfield.esm",
+      "1A76B7:Starfield.esm",
+      "1A80AD:Starfield.esm",
+      "1C0A3B:Starfield.esm",
+      "1F9BE7:Starfield.esm",
+      "1F9BFC:Starfield.esm",
+      "1F9CEF:Starfield.esm",
+      "1FA71B:Starfield.esm",
+      "1FA72A:Starfield.esm",
+      "1FA72E:Starfield.esm",
+      "1FA739:Starfield.esm",
+      "1FA75C:Starfield.esm",
+      "1FA75E:Starfield.esm",
+      "21A898:Starfield.esm",
+      "21A8A4:Starfield.esm"
+    ]
+  }
+}

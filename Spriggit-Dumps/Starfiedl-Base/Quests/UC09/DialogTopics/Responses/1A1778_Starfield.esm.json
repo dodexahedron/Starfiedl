@@ -1,0 +1,21 @@
+{
+  "FormKey": "1A1778:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "Emotion": "029A41:Starfield.esm",
+      "WEMFile": 11651573,
+      "TRDAUnknown": 5.1000004,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "So, then, give us the rundown. Where's Orlase now? Were you able to bring him in?"
+      },
+      "ScriptNotes": "You're really surprised by this turn of events.",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0x70455EA7F223D701"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}

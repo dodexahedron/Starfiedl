@@ -1,0 +1,20 @@
+{
+  "FormKey": "03C558:Starfield.esm",
+  "Flags": {},
+  "Responses": [
+    {
+      "WEMFile": 2272254,
+      "TRDAUnknown": 3.2333336,
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "This planet's full of 'em, though, and they like to preserve that history, here."
+      },
+      "ScriptNotes": "",
+      "Edits": "",
+      "AlternateLipText": "",
+      "TextHash": "0xB05FD6013612D801"
+    }
+  ],
+  "StartScenePhase": "",
+  "SubtitlePriority": "Low"
+}
